@@ -1,0 +1,1032 @@
+[
+    {
+        "id": "255S",
+        "question": "why is there no competition in aikido?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "255T",
+        "question": "why are there sitting/kneeling techniques in aikido?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "255U",
+        "question": "why do we practice with weapons?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "255V",
+        "question": "why do we hold the sword in our left hand and draw with our right hand?",
+        "categories": [
+            "philosophical",
+            "historical"
+        ]
+    },
+    {
+        "id": "255W",
+        "question": "why do we wear white doji's and why white?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "255X",
+        "question": "why do we call our uniform a \"dogi\" and not a \"gi\" like other martial arts schools?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "255Y",
+        "question": "what is the significance of the square, triangle and circle in aikido?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "255Z",
+        "question": "what is fu yo no yo?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "002560",
+        "question": "what is kaiten waza?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "002561",
+        "question": "what is ichi go ichi ei?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "002562",
+        "question": "what is ichi ei chigu?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "002563",
+        "question": "what is heijo shin kore michi?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "002564",
+        "question": "what is goroku?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "002565",
+        "question": "what is katameru?",
+        "categories": [
+            "philosophical",
+            "technical"
+        ]
+    },
+    {
+        "id": "002566",
+        "question": "what is tegiri?",
+        "categories": [
+            "philosophical",
+            "technical"
+        ]
+    },
+    {
+        "id": "002567",
+        "question": "what is do?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "002568",
+        "question": "what is fudo chi?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "002569",
+        "question": "what is sekka no ki?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "256A",
+        "question": "what is hyaku shaku kanto ho ippo sumei o?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "256B",
+        "question": "what is budo?",
+        "categories": [
+            "philosophical",
+            "historical"
+        ]
+    },
+    {
+        "id": "256C",
+        "question": "what is bujutsu?",
+        "categories": [
+            "philosophical",
+            "historical"
+        ]
+    },
+    {
+        "id": "256D",
+        "question": "what is joe hikan shin sui shogo?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "256E",
+        "question": "what is kojiki?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "256F",
+        "question": "what is angatsu (agatsu)?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "256G",
+        "question": "what is masakatsu?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "256H",
+        "question": "what is kachi hayami?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "256I",
+        "question": "what does aikido mean?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "256J",
+        "question": "what does kenshu mean?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "256K",
+        "question": "what does chudokan mean?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "256L",
+        "question": "what does yoshinkan mean?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "256M",
+        "question": "what is zanshin?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "256N",
+        "question": "what is the dojo? what does it mean?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "256O",
+        "question": "what do we say osu?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "256P",
+        "question": "what is a hakama? why do we wear it in aikido?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "256Q",
+        "question": "what do the five pleats in the front of the hakama represent?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "256R",
+        "question": "what do the two pleats in the back of the hakama represent?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "256S",
+        "question": "what is aikido no kokoro?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "256T",
+        "question": "what is shu chu ryoku?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "256U",
+        "question": "what is ichi jiga banji?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "256V",
+        "question": "what is shimoku no ashi?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "256W",
+        "question": "what is shi sei o tada shite?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "256X",
+        "question": "what is malobashi?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "256Y",
+        "question": "what is ken o fumu?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "256Z",
+        "question": "what is jiki shin kore dojo?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "002570",
+        "question": "what is an ishi? what is your ishi and how does it apply to your life?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "002571",
+        "question": "why do we wear left over right on our dogi top?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "002572",
+        "question": "why do we study the Japanese language?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "002573",
+        "question": "which way should the front of the dojo face and why?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "002574",
+        "question": "why do we bow to the front of the dojo and to others?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "002575",
+        "question": "why do we practice break falls? what is your breathing during breakfalls?",
+        "categories": [
+            "philosophical",
+            "technical"
+        ]
+    },
+    {
+        "id": "002576",
+        "question": "why do we study uke so much?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "002577",
+        "question": "what is kotodama (kiai)?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "002578",
+        "question": "what is irotkuki no koto?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "002579",
+        "question": "what is ito tsuki?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "257A",
+        "question": "what is uchi ore soto ore?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "257B",
+        "question": "what is kodo?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "257C",
+        "question": "what is isshin den shin?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "257D",
+        "question": "what is kata?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "257E",
+        "question": "why do we sometimes use \"yon\" instead of \"shi\" as the word representing the number four?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "257F",
+        "question": "what is sen? what is go no sen? what is sen no sen?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "257G",
+        "question": "what is rigyo (ringyo) itchi (ichi)?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "257H",
+        "question": "what is ichi zen ichi wa subete?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "257I",
+        "question": "what is toboku no oshie?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "257J",
+        "question": "what is fubuku no ohie?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "257K",
+        "question": "what is keiko?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "257L",
+        "question": "what is shugyo?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "257M",
+        "question": "what is aiki?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "257N",
+        "question": "what is kiai?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "257O",
+        "question": "what is owari mitsumoto?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "257P",
+        "question": "what is metsuke?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "257Q",
+        "question": "what is enzan no metsuke?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "257R",
+        "question": "what is ni no metsuke?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "257S",
+        "question": "what is isshin, nigan, sansoku, yonte?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "257T",
+        "question": "what is hoshin no kokoro o gusu?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "257U",
+        "question": "what is setsuninto / katsujinken?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "257V",
+        "question": "what is suriashi?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "257W",
+        "question": "what is shu, ha, ri?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "257X",
+        "question": "why traditionally are there no punches or kicks in aikido?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "257Y",
+        "question": "if aikido is known as the gentle martial art, why do we practice hard techniques?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "257Z",
+        "question": "what is sho shin?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "002580",
+        "question": "what is sho shin sho gai?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "002581",
+        "question": "what is shu shi?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "002582",
+        "question": "what is sanbyoshi?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "002583",
+        "question": "what is shomen kita?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "002584",
+        "question": "what is ichi ore soto ore?",
+        "categories": [
+            "philosophical"
+        ]
+    },
+    {
+        "id": "002585",
+        "question": "for side strike techniques, sometimes we block high, other times we block low. why?",
+        "categories": [
+            "technical"
+        ]
+    },
+    {
+        "id": "002586",
+        "question": "why do we chop the face when pinning in shiho nage?",
+        "categories": [
+            "technical"
+        ]
+    },
+    {
+        "id": "002587",
+        "question": "while doing suwari waza when do you come up on your toes?",
+        "categories": [
+            "technical"
+        ]
+    },
+    {
+        "id": "002588",
+        "question": "what are the rules for using atemi versus not using atemi?",
+        "categories": [
+            "technical"
+        ]
+    },
+    {
+        "id": "002589",
+        "question": "what are the rules for moving forward with an atemi versus not moving with an atemi?",
+        "categories": [
+            "technical"
+        ]
+    },
+    {
+        "id": "258A",
+        "question": "how do we kneel without weapons versus how do we kneel with weapons?",
+        "categories": [
+            "technical"
+        ]
+    },
+    {
+        "id": "258B",
+        "question": "how do you place your weapons on the mat versus on the wall versus on the side of the mat? ",
+        "categories": [
+            "technical"
+        ]
+    },
+    {
+        "id": "258C",
+        "question": "how many kinds of cross wrist grasps are there? what are they?",
+        "categories": [
+            "technical"
+        ]
+    },
+    {
+        "id": "258D",
+        "question": "what is shite's angle relative to uke in shiho nage?",
+        "categories": [
+            "technical"
+        ]
+    },
+    {
+        "id": "258E",
+        "question": "what does soke and kancho mean? what is the difference?",
+        "categories": [
+            "technical"
+        ]
+    },
+    {
+        "id": "258F",
+        "question": "where do we look when bowing (with and without partner)?",
+        "categories": [
+            "technical"
+        ]
+    },
+    {
+        "id": "258G",
+        "question": "where do we look when in kamae with partner?",
+        "categories": [
+            "technical"
+        ]
+    },
+    {
+        "id": "258H",
+        "question": "what is the angle of your feet in kamae? what is your weight distribution?",
+        "categories": [
+            "technical"
+        ]
+    },
+    {
+        "id": "258I",
+        "question": "when doing grabbing techniques, sometimes we leave the hand on and sometimes we take it off. why?",
+        "categories": [
+            "technical"
+        ]
+    },
+    {
+        "id": "258J",
+        "question": "how many kinds of bows are there? what are they?",
+        "categories": [
+            "technical"
+        ]
+    },
+    {
+        "id": "258K",
+        "question": "what is san sei no kiai?",
+        "categories": [
+            "philosophical",
+            "technical"
+        ]
+    },
+    {
+        "id": "258L",
+        "question": "why do we practice techniques from seiza?",
+        "categories": [
+            "technical"
+        ]
+    },
+    {
+        "id": "258M",
+        "question": "why is there no kamae in seiza?",
+        "categories": [
+            "technical"
+        ]
+    },
+    {
+        "id": "258N",
+        "question": "why can there be a different when performing the technique shiho nage?",
+        "categories": [
+            "technical"
+        ]
+    },
+    {
+        "id": "258O",
+        "question": "what is our sword style?",
+        "categories": [
+            "technical"
+        ]
+    },
+    {
+        "id": "258P",
+        "question": "for mune mochi hiji ate nage, where is the hand for the starting grip?",
+        "categories": [
+            "technical"
+        ]
+    },
+    {
+        "id": "258Q",
+        "question": "for kokyu ho #7, the starting position for this technique is hand on the knees. does shite perform any upward movement with the ankles/feet prior to pivoting for the pin?",
+        "categories": [
+            "technical"
+        ]
+    },
+    {
+        "id": "258R",
+        "question": "for #2 basic techniques (not advanced) that start in ai hanmi instead of gyaku hanmi, is that because it is not possible in those types of situations (ex: shomen uchi hiji ate) we need to keep uke in our center line for as much of the technique as possible prior to completing it?",
+        "categories": [
+            "technical"
+        ]
+    },
+    {
+        "id": "258S",
+        "question": "for ushiro katate eri mochi style techniques, a punch occurs for releasing the wrist grasp but is it unnecessary in the regular eri mochi techniques?",
+        "categories": [
+            "technical"
+        ]
+    },
+    {
+        "id": "258T",
+        "question": "why are there no behind techniques from seiza?",
+        "categories": [
+            "technical"
+        ]
+    },
+    {
+        "id": "258U",
+        "question": "how many different ways are there to take uke's arm/hand down in ikkajo/ikkyo/first control techniques?",
+        "categories": [
+            "technical"
+        ]
+    },
+    {
+        "id": "258V",
+        "question": "how many different types of pins are there in hiji shime?",
+        "categories": [
+            "technical"
+        ]
+    },
+    {
+        "id": "258W",
+        "question": "with many opponents, where do we look? why?",
+        "categories": [
+            "technical"
+        ]
+    },
+    {
+        "id": "258X",
+        "question": "who was Gozo Shioda (Shioda Sensei / Shioda Soke)?",
+        "categories": [
+            "historical",
+            "people"
+        ]
+    },
+    {
+        "id": "258Y",
+        "question": "who was Shinra Saburo Yoshimitsu?",
+        "categories": [
+            "historical",
+            "people"
+        ]
+    },
+    {
+        "id": "258Z",
+        "question": "who was Chinzei Hachiro Minamoto No Tametomo?",
+        "categories": [
+            "historical",
+            "people"
+        ]
+    },
+    {
+        "id": "002590",
+        "question": "who was Takeda Sokaku?",
+        "categories": [
+            "historical",
+            "people"
+        ]
+    },
+    {
+        "id": "002591",
+        "question": "who was Taisen Deshimaru?",
+        "categories": [
+            "historical",
+            "people"
+        ]
+    },
+    {
+        "id": "002592",
+        "question": "who was Kisshomaru Ueshiba?",
+        "categories": [
+            "historical",
+            "people"
+        ]
+    },
+    {
+        "id": "002593",
+        "question": "who was Sen No Rikyu?",
+        "categories": [
+            "historical",
+            "people"
+        ]
+    },
+    {
+        "id": "002594",
+        "question": "who was Yagyu Jubei?",
+        "categories": [
+            "historical",
+            "people"
+        ]
+    },
+    {
+        "id": "002595",
+        "question": "who was Yagyu Munenori?",
+        "categories": [
+            "historical",
+            "people"
+        ]
+    },
+    {
+        "id": "002596",
+        "question": "who was Kami Izumi Ise No Kami?",
+        "categories": [
+            "historical",
+            "people"
+        ]
+    },
+    {
+        "id": "002597",
+        "question": "who was Aizu Hyuga No Kami?",
+        "categories": [
+            "historical",
+            "people"
+        ]
+    },
+    {
+        "id": "002598",
+        "question": "who was Tokugawa Iyeasu?",
+        "categories": [
+            "historical",
+            "people"
+        ]
+    },
+    {
+        "id": "002599",
+        "question": "who was \"Shiho Nage Sabu Chan\"?",
+        "categories": [
+            "historical",
+            "people"
+        ]
+    },
+    {
+        "id": "259A",
+        "question": "who was Morihei Ueshiba?",
+        "categories": [
+            "historical",
+            "people"
+        ]
+    },
+    {
+        "id": "259B",
+        "question": "who was Deguchi Oni Saburo?",
+        "categories": [
+            "historical",
+            "people"
+        ]
+    },
+    {
+        "id": "259C",
+        "question": "who was Miyamoto Musashi?",
+        "categories": [
+            "historical",
+            "people"
+        ]
+    },
+    {
+        "id": "259D",
+        "question": "who was Muso Gonosuke?",
+        "categories": [
+            "historical",
+            "people"
+        ]
+    },
+    {
+        "id": "259E",
+        "question": "who was Prince Minamoto Teijun?",
+        "categories": [
+            "historical",
+            "people"
+        ]
+    },
+    {
+        "id": "259F",
+        "question": "who was Hayashizaki Jinsuke?",
+        "categories": [
+            "historical",
+            "people"
+        ]
+    },
+    {
+        "id": "259G",
+        "question": "who was Kata Kiyomasu?",
+        "categories": [
+            "historical",
+            "people"
+        ]
+    },
+    {
+        "id": "259H",
+        "question": "who was Onono Tofu?",
+        "categories": [
+            "historical",
+            "people"
+        ]
+    },
+    {
+        "id": "259I",
+        "question": "who was Tsukahara Bokuden?",
+        "categories": [
+            "historical",
+            "people"
+        ]
+    },
+    {
+        "id": "259J",
+        "question": "who was Matasubayashi Samanosuke (Henyasai - \"The Batman\")?",
+        "categories": [
+            "historical",
+            "people"
+        ]
+    },
+    {
+        "id": "259K",
+        "question": "who was Hayashida Samon?",
+        "categories": [
+            "historical",
+            "people"
+        ]
+    },
+    {
+        "id": "259L",
+        "question": "who was Jigoro Kano?",
+        "categories": [
+            "historical",
+            "people"
+        ]
+    },
+    {
+        "id": "259M",
+        "question": "who was Mochizuki Minoru?",
+        "categories": [
+            "historical",
+            "people"
+        ]
+    },
+    {
+        "id": "259N",
+        "question": "who was Hanawa Hokichi?",
+        "categories": [
+            "historical",
+            "people"
+        ]
+    },
+    {
+        "id": "259O",
+        "question": "who was Okagiri Kudon?",
+        "categories": [
+            "historical",
+            "people"
+        ]
+    },
+    {
+        "id": "259P",
+        "question": "who was Yamamoto Tsunetomo?",
+        "categories": [
+            "historical",
+            "people"
+        ]
+    }
+]
