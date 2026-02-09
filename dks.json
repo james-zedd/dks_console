@@ -1028,5 +1028,26 @@
             "historical",
             "people"
         ]
+    },
+    {
+        "id": "259Q",
+        "question": "how many types of punch atemi are there? what does each one do?",
+        "categories": [
+            "technical"
+        ]
+    },
+    {
+        "id": "259R",
+        "question": "how may different ways can you block a side strike? what is the function of each of them?",
+        "categories": [
+            "technical"
+        ]
+    },
+    {
+        "id": "259S",
+        "question": "t",
+        "categories": [
+            ""
+        ]
     }
 ]
