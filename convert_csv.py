@@ -50,7 +50,6 @@ def convert_csv_to_json():
         for row in reader:
             if not row["correct_answer"].strip():
                 continue  # Skip rows where 'correct_answer' is empty
-            # process the row and add it to the data list
             data.append(row)
 
     # Convert all keys to lowercase
