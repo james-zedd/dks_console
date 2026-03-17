@@ -1,146 +1,147 @@
-id,Question,Categories
-255S,why is there no competition in aikido?,[philosophical]
-255T,why are there sitting/kneeling techniques in aikido?,[philosophical]
-255U,why do we practice with weapons?,[philosophical]
-255V,why do we hold the sword in our left hand and draw with our right hand?,"[philosophical, historical]"
-255W,why do we wear white doji's and why white?,[philosophical]
-255X,"why do we call our uniform a ""dogi"" and not a ""gi"" like other martial arts schools?",[philosophical]
-255Y,"what is the significance of the square, triangle and circle in aikido?",[philosophical]
-255Z,what is fu yo no yo?,[philosophical]
-002560,what is kaiten waza?,[philosophical]
-002561,what is ichi go ichi ei?,[philosophical]
-002562,what is ichi ei chigu?,[philosophical]
-002563,what is heijo shin kore michi?,[philosophical]
-002564,what is goroku?,[philosophical]
-002565,what is katameru?,"[philosophical, technical]"
-002566,what is tegiri?,"[philosophical, technical]"
-002567,what is do?,[philosophical]
-002568,what is fudo chi?,[philosophical]
-002569,what is sekka no ki?,[philosophical]
-256A,what is hyaku shaku kanto ho ippo sumei o?,[philosophical]
-256B,what is budo?,"[philosophical, historical]"
-256C,what is bujutsu?,"[philosophical, historical]"
-256D,what is joe hikan shin sui shogo?,[philosophical]
-256E,what is kojiki?,[philosophical]
-256F,what is angatsu (agatsu)?,[philosophical]
-256G,what is masakatsu?,[philosophical]
-256H,what is kachi hayami?,[philosophical]
-256I,what does aikido mean?,[philosophical]
-256J,what does kenshu mean?,[philosophical]
-256K,what does chudokan mean?,[philosophical]
-256L,what does yoshinkan mean?,[philosophical]
-256M,what is zanshin?,[philosophical]
-256N,what is the dojo? what does it mean?,[philosophical]
-256O,what do we say osu?,[philosophical]
-256P,what is a hakama? why do we wear it in aikido?,[philosophical]
-256Q,what do the five pleats in the front of the hakama represent?,[philosophical]
-256R,what do the two pleats in the back of the hakama represent?,[philosophical]
-256S,what is aikido no kokoro?,[philosophical]
-256T,what is shu chu ryoku?,[philosophical]
-256U,what is ichi jiga banji?,[philosophical]
-256V,what is shimoku no ashi?,[philosophical]
-256W,what is shi sei o tada shite?,[philosophical]
-256X,what is malobashi?,[philosophical]
-256Y,what is ken o fumu?,[philosophical]
-256Z,what is jiki shin kore dojo?,[philosophical]
-002570,what is an ishi? what is your ishi and how does it apply to your life?,[philosophical]
-002571,why do we wear left over right on our dogi top?,[philosophical]
-002572,why do we study the Japanese language?,[philosophical]
-002573,which way should the front of the dojo face and why?,[philosophical]
-002574,why do we bow to the front of the dojo and to others?,[philosophical]
-002575,why do we practice break falls? what is your breathing during breakfalls?,"[philosophical, technical]"
-002576,why do we study uke so much?,[philosophical]
-002577,what is kotodama (kiai)?,[philosophical]
-002578,what is irotkuki no koto?,[philosophical]
-002579,what is ito tsuki?,[philosophical]
-257A,what is uchi ore soto ore?,[philosophical]
-257B,what is kodo?,[philosophical]
-257C,what is isshin den shin?,[philosophical]
-257D,what is kata?,[philosophical]
-257E,"why do we sometimes use ""yon"" instead of ""shi"" as the word representing the number four?",[philosophical]
-257F,what is sen? what is go no sen? what is sen no sen?,[philosophical]
-257G,what is rigyo (ringyo) itchi (ichi)?,[philosophical]
-257H,what is ichi zen ichi wa subete?,[philosophical]
-257I,what is toboku no oshie?,[philosophical]
-257J,what is fubuku no ohie?,[philosophical]
-257K,what is keiko?,[philosophical]
-257L,what is shugyo?,[philosophical]
-257M,what is aiki?,[philosophical]
-257N,what is kiai?,[philosophical]
-257O,what is owari mitsumoto?,[philosophical]
-257P,what is metsuke?,[philosophical]
-257Q,what is enzan no metsuke?,[philosophical]
-257R,what is ni no metsuke?,[philosophical]
-257S,"what is isshin, nigan, sansoku, yonte?",[philosophical]
-257T,what is hoshin no kokoro o gusu?,[philosophical]
-257U,what is setsuninto / katsujinken?,[philosophical]
-257V,what is suriashi?,[philosophical]
-257W,"what is shu, ha, ri?",[philosophical]
-257X,why traditionally are there no punches or kicks in aikido?,[philosophical]
-257Y,"if aikido is known as the gentle martial art, why do we practice hard techniques?",[philosophical]
-257Z,what is sho shin?,[philosophical]
-002580,what is sho shin sho gai?,[philosophical]
-002581,what is shu shi?,[philosophical]
-002582,what is sanbyoshi?,[philosophical]
-002583,what is shomen kita?,[philosophical]
-002584,what is ichi ore soto ore?,[philosophical]
-002585,"for side strike techniques, sometimes we block high, other times we block low. why?",[technical]
-002586,why do we chop the face when pinning in shiho nage?,[technical]
-002587,while doing suwari waza when do you come up on your toes?,[technical]
-002588,what are the rules for using atemi versus not using atemi?,[technical]
-002589,what are the rules for moving forward with an atemi versus not moving with an atemi?,[technical]
-258A,how do we kneel without weapons versus how do we kneel with weapons?,[technical]
-258B,how do you place your weapons on the mat versus on the wall versus on the side of the mat? ,[technical]
-258C,how many kinds of cross wrist grasps are there? what are they?,[technical]
-258D,what is shite's angle relative to uke in shiho nage?,[technical]
-258E,what does soke and kancho mean? what is the difference?,[technical]
-258F,where do we look when bowing (with and without partner)?,[technical]
-258G,where do we look when in kamae with partner?,[technical]
-258H,what is the angle of your feet in kamae? what is your weight distribution?,[technical]
-258I,"when doing grabbing techniques, sometimes we leave the hand on and sometimes we take it off. why?",[technical]
-258J,how many kinds of bows are there? what are they?,[technical]
-258K,what is san sei no kiai?,"[philosophical, technical]"
-258L,why do we practice techniques from seiza?,[technical]
-258M,why is there no kamae in seiza?,[technical]
-258N,why can there be a different when performing the technique shiho nage?,[technical]
-258O,what is our sword style?,[technical]
-258P,"for mune mochi hiji ate nage, where is the hand for the starting grip?",[technical]
-258Q,"for kokyu ho #7, the starting position for this technique is hand on the knees. does shite perform any upward movement with the ankles/feet prior to pivoting for the pin?",[technical]
-258R,"for #2 basic techniques (not advanced) that start in ai hanmi instead of gyaku hanmi, is that because it is not possible in those types of situations (ex: shomen uchi hiji ate) we need to keep uke in our center line for as much of the technique as possible prior to completing it?",[technical]
-258S,"for ushiro katate eri mochi style techniques, a punch occurs for releasing the wrist grasp but is it unnecessary in the regular eri mochi techniques?",[technical]
-258T,why are there no behind techniques from seiza?,[technical]
-258U,how many different ways are there to take uke's arm/hand down in ikkajo/ikkyo/first control techniques?,[technical]
-258V,how many different types of pins are there in hiji shime?,[technical]
-258W,"with many opponents, where do we look? why?",[technical]
-258X,who was Gozo Shioda (Shioda Sensei / Shioda Soke)?,"[historical, people]"
-258Y,who was Shinra Saburo Yoshimitsu?,"[historical, people]"
-258Z,who was Chinzei Hachiro Minamoto No Tametomo?,"[historical, people]"
-002590,who was Takeda Sokaku?,"[historical, people]"
-002591,who was Taisen Deshimaru?,"[historical, people]"
-002592,who was Kisshomaru Ueshiba?,"[historical, people]"
-002593,who was Sen No Rikyu?,"[historical, people]"
-002594,who was Yagyu Jubei?,"[historical, people]"
-002595,who was Yagyu Munenori?,"[historical, people]"
-002596,who was Kami Izumi Ise No Kami?,"[historical, people]"
-002597,who was Aizu Hyuga No Kami?,"[historical, people]"
-002598,who was Tokugawa Iyeasu?,"[historical, people]"
-002599,"who was ""Shiho Nage Sabu Chan""?","[historical, people]"
-259A,who was Morihei Ueshiba?,"[historical, people]"
-259B,who was Deguchi Oni Saburo?,"[historical, people]"
-259C,who was Miyamoto Musashi?,"[historical, people]"
-259D,who was Muso Gonosuke?,"[historical, people]"
-259E,who was Prince Minamoto Teijun?,"[historical, people]"
-259F,who was Hayashizaki Jinsuke?,"[historical, people]"
-259G,who was Kata Kiyomasu?,"[historical, people]"
-259H,who was Onono Tofu?,"[historical, people]"
-259I,who was Tsukahara Bokuden?,"[historical, people]"
-259J,"who was Matasubayashi Samanosuke (Henyasai - ""The Batman"")?","[historical, people]"
-259K,who was Hayashida Samon?,"[historical, people]"
-259L,who was Jigoro Kano?,"[historical, people]"
-259M,who was Mochizuki Minoru?,"[historical, people]"
-259N,who was Hanawa Hokichi?,"[historical, people]"
-259O,who was Okagiri Kudon?,"[historical, people]"
-259P,who was Yamamoto Tsunetomo?,"[historical, people]"
-259Q,how many types of punch atemi are there? what does each one do?,[technical]
-259R,how may different ways can you block a side strike? what is the function of each of them?,[technical]
-259S,t,
+id,Question,Categories,answer_a,answer_b,answer_c,answer_d,correct_answer,explanation
+255S,why is there no competition in aikido?,[philosophical],Because we are afraid,There is but we do not do it,Our greatest opponent is ourselves,Aikido requires no competition,C - Our greatest opponent is ourselves,"In aikido, we work to better ourselves and not to dominate others. Although our techniques are tactically applicable to subduing an individual, our focus is to become the best version of ourselves rather than dominate someone else."
+255T,why are there sitting/kneeling techniques in aikido?,[philosophical],For historical reasons,Because it is hard,It makes our knees stronger,It may come in handy one day,B - Because it is hard,"We practice kneeling techniques in aikido because it is difficult to do. Through overcoming difficult challenges, we grow as people and become stronger."
+255U,why do we practice with weapons?,[philosophical],,,,,,
+255V,why do we hold the sword in our left hand and draw with our right hand?,"[philosophical, historical]",Because that is the way swords were made,Most samurai were right handed,There is no reason - do what you want,The left is inappropriate,B - Most samurai were right handed,"Because most samurai were right-hand dominant, they trained all samurai to use the right hand when drawing. This created consistency with training individually and as a group. Learning to draw from both left and right sides could create two options when one option (draw from the left with right hand) could save time."
+255W,why do we wear white doji's and why white?,[philosophical],Because it looks cool,White is the color of death in Japan,White absorbs all other colors,Because we wear colored belts,C - White absorbs all other colors,"The color white can change. As aikidoka, we need to be adaptable, like the color white, to whatever situation we are in. White represents the ability to absorb other thoughts, teachings and ways. Some other colors can do this, but not in the same way that white can."
+255X,"why do we call our uniform a ""dogi"" and not a ""gi"" like other martial arts schools?",[philosophical],Because our uniforms are white,Because it sounds cooler,It refers specifically to a uniform for practicing martial arts,It refers to how we practice martial arts,C - It refers specifically to a uniform for practicing martial arts,"The term ""dogi"" refers specifically to a uniform used for martial arts, or a ""uniform of the way"". The term ""gi"" can refer to general clothing and exclude that the clothing has a specific purpose for being worn."
+255Y,"what is the significance of the square, triangle and circle in aikido?",[philosophical],"Balance, Focus, Movement","Table, Chair, Door","Focus, Rhythm, Force","Love, Laugh, Live","A - Balance, Focus, Movement",The square represents balance as it has four corners. The triangle represents focus with two points going toward the third. The circle represents movement as in a pivot.
+255Z,what is fu yo no yo?,[philosophical],A log hitting a bell,What is not needed is needed,A significant type of tea,A legendary monster,B - What is not needed is needed,"Fu Yo No Yo translates to ""what is not needed is needed"". It can also mean ""what is needed is not needed"". It reminds us that things in our lives can alter our thoughts and behaviors. Sometimes the things we do not want are useful, and sometimes the things we have are not good."
+002560,what is kaiten waza?,[philosophical],A nice salad,Pin Technique,Pivot/Evasion Technique,Arm Lock Technique,C - Evasion Technique,"Kaiten waza roughly translates to pivot or evasion techniques. We have several pivots we teach, including 95 degree pivot and 180 degree pivot. Included in these can also be our second kyu evasion and first kyu evasion."
+002561,what is ichi go ichi ei?,[philosophical],"One Time, One Place","One Movement, One Strike","One Moment, One Opportunity","Two Samurai, One Cup","C - One Moment, One Opportunity","Ichi Go Ichi Ei means ""one time, one opportunity"". It means you really only do things one time in your life. If you do the same action again, it will not be the same as any similar action you have done. The goal of this saying is to encourage living in the moment."
+002562,what is ichi ei chigu?,[philosophical],"One moment, one cup","One moment, wisest choice","Two moments, one conclusion","One toast, two eggs","B - One moment, wisest choice","""ichi ei chigu"" means one moment, best/wisest choice. Similar to ichi go ichi ei, you have one opportunity during an encounter to seize the moment and make a positive decision, but this specifically focuses on the idea of making the wisest of choices. That there is an element of ""rightness"" or ""correct behavior"" involved in the decision making process."
+002563,what is heijo shin kore michi?,[philosophical],Large Mind is the Way,Small Mind is the Way,Regular Mind is the Way,Enlightened Mind is the Way,C - Regular Mind is the Way,"""Heijo Shin Kore Michi"" translates to regular/calm mind is the (correct) way. This saying empasizes that a calm, disciplined state of mind can respond best to stressful situations and circumstances. This is epitomized in the story of Sen No Rikyu, the tea master who successfully disarmed Kato Kiyomasa, a famous samurai, by spilling tea on some hot coals in a small tea hut, forcing the two of them to leave while Kiyomasa left his sword behind."
+002564,what is goroku?,[philosophical],Five Magics,Five Powers,Five Swords,Five Rings,B - Five Powers,"""Goroku"" means five powers. It refers to the ideal way to grip a sword or how to grab shite. It starts with the pinky finger (5) gripping, then the ring finger (4), then 3, 2 and finally the thumb (1). The goal for the practitioner is to squeeze into the base of the palm for maximum effect."
+002565,what is katameru?,"[philosophical, technical]",The Bottom,The Center,The point at which uke cannot resist you,The point where no one can resist you,C - The point where uke cannot resist you,"Katameru is translated as ""the point where uke cannot resist what you are about to do next. It indicates that you have broken uke's balance or otherwise made them unable to resist your next movement."
+002566,what is tegiri?,"[philosophical, technical]",Hand Cutting,Hand Hitting,Hand Moving,Hand Shaking,A - Hand Cutting,"Tegiri means hand cutting. ""Te"" is hand and ""Giri"" is cut. This is a hand motion we make when doing kihon dosa, such as elbow power #1 and #2. This motion helps us improve our power when performing a technique and decreases uke's ability to maintain a strong hold."
+002567,what is do?,[philosophical],The Truth,The Way,The Light,To Do,B - The Way,"""Do"" when translated to English can mean ""the way"" or ""the path"". It is more of a philosophical path or way rather than a physical road or  path. The way is a set of guiding ideas and principles that aim to achieve a goal for the individual."
+002568,what is fudo chi?,[philosophical],,,,,,
+002569,what is sekka no ki?,[philosophical],Flint and Steel Timing,Almost Perfect Timing,Imperfect Timing,In due time,A - Flint and Steel Timing ,"This saying is about the ideal or perfect timing, where an individual acts instantly for the situation at hand. There is no gap between the situation and the response, like striking flint and steel together, the result (spark) comes instantly. The ideal response is something that can be achieved through training. "
+256A,what is hyaku shaku kanto ho ippo sumei o?,[philosophical],Climb to the top of a 100 foot tree ...,"Run 10,000 steps daily ...",Ride 1000 horses in your life ...,Swim 1 ocean every year ...,A - Climb to the top of a 100 foot tree ...,"This translates to ""Climb to the top of a 100-foot tree, then take a step up"". This saying has to do with setting very high goals for your life. It it similar to the phrase ""shoot for the moon"". Setting high goals for your life means that you do not live a simple and complacent life, but aim for large goals. This will make you a stronger and better person."
+256B,what is budo?,"[philosophical, historical]",Martial Strategy,Martial Way,Martial Martial,Martial Truth,B - Martial Way,"""Budo"" translates to English as ""martial way"".  It is the study of martial techniques with the goal of adding value to the life of the practitioner. A true budo values personal growth as its key metric."
+256C,what is bujutsu?,"[philosophical, historical]",Martial Student,Martial Science,Martial Stamina,Martial Warrior,B - Martial Science,"""Bujutsu"" translates to English as ""martial science"". It is the study of martial techniques with the goal of measuring technique and results. A true bujutsu values physical results as its key metric."
+256D,what is joe hikan shin sui shogo?,[philosophical],Embrace life and be blessed,Embrace difficulty and your mind will grow,Embrace each other and life grows,Embrace nothing and be alone,B - Embrace difficulty and your mind will grow,"This saying means when you embrace challenges, your mind will grow (blossom). Your mind should grow when it is challenged, but we live in a society where we will trade challenges for easy answers. The goal of the budoka should be to embrace any challenge set before them, and to become stronger and better because they embraced it and overcame it."
+256E,what is kojiki?,[philosophical],A legendary sword,Crazy one-eyed archer,A Japanese bird that will fight humans,The oldest book in Japan,D - The oldest book in Japan,"The Kojiki is the oldest documented book in Japan. Completed in 712 CE, it is a foundational text of mythology, shinto and early Japanese history."
+256F,what is angatsu (agatsu)?,[philosophical],Victory over self,Correct Victory,Samurai Honor,A brand of saki,A - Victory over self,Agatsu (angatsu) means victory over yourself. Philosophically is means you fight a battle against yourself and the prize you get for winning is yourself. It is related to defeating your ego and focusing on your disciplines in life.
+256G,what is masakatsu?,[philosophical],Victory over self,Correct Victory,Samurai Honor,Breakfast,B - Correct Victory,"Masakatsu mean correct victory. It means that you must win in the correct way - a way that is constructive rather than destructive. There are many ways to achieve a goal, but the correct way is the one that makes you a greater person."
+256H,what is kachi hayami?,[philosophical],Victory over self,Victory in the correct time,Correct timing of log and bell,A British Fry Up,B - Victory in the correct time,"Kachi Hayami means victory in the correct time. It means you should not rush to achieve your goals, but let them happen in the correct time. Rushing too much or not enough means that you are missing part of the journey."
+256I,what does aikido mean?,[philosophical],,,,,,
+256J,what does kenshu mean?,[philosophical],Weapons Practice,Sword Duel,Sword Sharpening,Weapon Making,C - Sword Sharpening,"""Kenshu"" translates to sword sharpening. It is a term used for a specific class in aikido that is more intense than regular classes. Kenshu classes usually involve lectures, detailed instructions on physical techniques and intense training exercises."
+256K,what does chudokan mean?,[philosophical],House of pain,House of Chi,House of no house,House of the middle way,D - House of the middle way,"""Chudokan"" means house of the middle way. ""Chu"" translates to middle, ""Do"" translates to ""The Way"" and ""Kan"" translates to ""House of"". This is the name of our main headquarters dojo in Windsor, Ontario."
+256L,what does yoshinkan mean?,[philosophical],House of pain,House of Mind Cultivation,House of No Mind,House of No House,C - House of Mind Cultivation,"""Yoshinkan"" means house of mind cultivation. This name was given to our style of aikido by Gozo Shioda, the founder of Yoshinkan Aikido. It was the name of Shioda's father's judo dojo. ""Mind cultivation"" means that your mind is intended to grow through the training."
+256M,what is zanshin?,[philosophical],Continuing Mind,Abstract Mind,Death Mind,Zen Mind,A - Continuing Mind,"""Zanshin"" means continuing mind. It has also been translated as ""lingering spirit"" or ""remaining mind"". It refers to a state of relaxed alertness and total awareness maintained after an action. It represents a continuous, focused presence, which is crutial for post-technique readiness. It also is applicable in daily life as mindful focus."
+256N,what is the dojo? what does it mean?,[philosophical],,,,,,
+256O,why do we say osu? what does it mean?,[philosophical],Because we do,"It means ""I will not kill you""","To push, to endure",OSU!,C - To push. to endure,"Although there are many theories about the origins of the word ""osu"", the most relevant one to our study means ""to push, to endure"". This is something we say before we train with partners or in a group. It is also a greeting we use when aikidoka see one another. The ""push"" aspect of this saying can be interpreted as ""I push myself aside for you"".  This is attributed to samurai who lived in small clans and did not always get along with one another. When it was time to train, they would say ""osu"" to one another to put aside any differences they had and simply train so they could be more useful as soldiers. The ""to endure"" aspect of this saying can be interpreted as to undergo intense training, or to commit to being the best person you can be during the training."
+256P,what is a hakama? why do we wear it in aikido?,[philosophical],A skirt,A dress,Baggy samurai pants,Traditional samurai horse-riding garb,D - Traditional samurai horse-riding garb,"A hakama is a skirt-like set of pants that are worn on the lower body over the uniform. It is worn in aikido but also in other arts like Judo and Karate. Historically the hakama was meant to be worn when riding on horse to protect the samurai's legs from brambles, brush, etc. After the samurai dismounted and became foot soldiers, they persisted in wearing them as it set them apart from common soldiers. In many schools only black belts will wear hakama, although some exceptions can be made."
+256Q,what do the five pleats in the front of the hakama represent?,[philosophical],,,,,,
+256R,what do the two pleats in the back of the hakama represent?,[philosophical],Strength and Honor,Honor and Loyalty,Loyalty and Humility,Humility and Strength,C - Loyalty and Humility,The two pleats on the back of the hakama represent Loyalty and Humility. These two characteristics were meant to be behind the samurai and drive them forward in life. They were key aspects in samurai day-to-day life.
+256S,what is aikido no kokoro?,[philosophical],Aikido's Lungs,Aikido's Heart,Aikido's Brain,Aikido's Liver,B - Aikido's Heart,The spirit/heart of aikido isan amorphous term which applies more to how aikido applies to an individual. This tends to be a high level dan question and is asked when looking to determine an individual's focus with and through aikido. An answer will very much apply to that person and tends to be more philosophical in nature and less technical.
+256T,what is shu chu ryoku?,[philosophical],5 powers,5 rings,Focus all your energy to one point,Focus all your chakras to one finger,C - Focus all your energy to one point,"The saying ""shu chu (shuchu) ryoku"" means ""focus all your energy to one point"". This was the ishi of Gozo Shioda, the founder of Yoshinkan Aikido. He believed that if an individual focused all their energy to one area, they could be extremely powerful."
+256U,what is ichi jiga banji?,[philosophical],,,,,,
+256V,what is shimoku no ashi?,[philosophical],Smoking Ashes,Ashes of Wisdom,Incense Ashes,Log and Bell Feet,D - Log and Bell Feet,"This means ""the bell and the log feet"". It emphasizes that the feet of the aikidoka should be at a 90 degree angle. It is called this because when a log hits a bell at a perfect 90 degree angle, it is most effective. The same is true for the aikidoka's feet when they are at 90 degrees total (each foot on a 45 degree angle)"
+256W,what is shi sei o tada shite?,[philosophical],Keep your head up,Make your back straight,Keep your head low,Make your arms straight,B - Make your back straight,"The saying ""shi sei o tada shite"" means make your back straight. It is a saying we use in aikido during training and when sitting in seiza. A straight back while in training will help shite do a more powerful technique. A straight back while in seiza will show focus and attention while sitting. The saying also carries the meaning ""Make your life straight"", which means the budoka should do everything in their power to keep their life on a positive path."
+256X,what is malobashi?,[philosophical],A type of sushi,Samurai loincloth,Just do it,A belief about the stars,C - Just do it,"Malobashi (marobashi) means just do it. If there is an inconvenience in your life, get it done and be done with it. Do not waste time wishing things were different. Do it quickly and move on."
+256Y,what is ken o fumu?,[philosophical],Sword's fury,Just do it,Sword steps,Step on the sword,D - Step on the sword,"Ken o fumu means to step on the sword. If you are on a path (have a goal) and there is a physical sword on the path (an obstacle/inconvenience) then you step on the sword and be done with it. Unlike malobashi, Ken o fumu has an element of physical/mental/emotional pain that comes with it."
+256Z,what is jiki shin kore dojo?,[philosophical],"When the mind is correct, everywhere is the dojo","When the mind is empty, the tea will flow","When the bottle is empty, the tears will flow","When the belly is empty, you need food","A - When the mind is correct, everywhere is the  dojo","This saying means that when you have the correct mind, every opportunity in life is a chance to learn and grow. A correct mind seeks knowledge and experiences and is willing to adapt."
+002570,what is an ishi? what is your ishi and how does it apply to your life?,[philosophical],Personal Brand,Personal Life,Personal Person,Personal Saying,D - Personal Saying,"An ishi is a personal saying that is significant to the budoka. It can be a quote, a poem or a unique saying of significant value. Everyone will have personal reasons for choosing their ishi. A budoka can have more than one ishi."
+002571,why do we wear left over right on our dogi top?,[philosophical],Modesty,Etiquite,For sport,Passive over Agressive,D - Passive over agressive,"Traditionally, the left hand was seen as the passive hand as the right hand would be the one to draw/use weapons.  We always want to show our passive side first when dealing with conflict before we show our agressive side."
+002572,why do we study the Japanese language?,[philosophical],Fun,To order sushi,Because sensei said so,Adaptability,D - Adaptability,"Aikido originates from Japan. We study the Japanese language not only to challenge our minds, but to create adaptability in communication to other dojos. Not all dojos will speak the primary language of the aikidoka's home dojo. Learning to speak Japanese can bridge communication gaps between different dojos across the world."
+002573,which way should the front of the dojo face and why?,[philosophical],North,South,East,Left,A - North,"The front of the dojo (shomen) should face North. This was established because bad weather typically came from the North in Japan and Japanese wanted to appease the gods, so they would bow to the North."
+002574,why do we bow to the front of the dojo and to others?,[philosophical],,,,,,
+002575,why do we practice break falls? what is your breathing during breakfalls?,"[philosophical, technical]",,,,,,
+002576,why do we study uke so much?,[philosophical],,,,,,
+002577,what is kotodama (kiai)?,[philosophical],,,,,,
+002578,what is irotkuki no koto?,[philosophical],,,,,,
+002579,what is ito tsuki?,[philosophical],,,,,,
+257A,what is uchi ore soto ore?,[philosophical],,,,,,
+257B,what is kodo?,[philosophical],,,,,,
+257C,what is isshin den shin?,[philosophical],,,,,,
+257D,what is kata?,[philosophical],,,,,,
+257E,"why do we sometimes use ""yon"" instead of ""shi"" as the word representing the number four?",[philosophical],Courtesy,Wisdom,Honesty,Death,D - Death,"We sometimes use the word ""yon"" instead of ""shi"" because ""shi"" is the root word in death. Japanese superstition did not want to use ""shi"" when naming specific things as they thought it may ""invite death"" into that thing. For example, a fourth degree black belt is a ""Yondan"" and not a ""Shidan"" (no one should be the ""death dan""!)"
+257F,what is sen? what is go no sen? what is sen no sen?,[philosophical],,,,,,
+257G,what is rigyo (ringyo) itchi (ichi)?,[philosophical],,,,,,
+257H,what is ichi zen ichi wa subete?,[philosophical],,,,,,
+257I,what is toboku no oshie?,[philosophical],,,,,,
+257J,what is fubuku no ohie?,[philosophical],,,,,,
+257K,what is keiko?,[philosophical],,,,,,
+257L,what is shugyo?,[philosophical],,,,,,
+257M,what is aiki?,[philosophical],,,,,,
+257N,what is kiai?,[philosophical],,,,,,
+257O,what is owari mitsumoto?,[philosophical],,,,,,
+257P,what is metsuke?,[philosophical],,,,,,
+257Q,what is enzan no metsuke?,[philosophical],,,,,,
+257R,what is ni no metsuke?,[philosophical],,,,,,
+257S,"what is isshin, nigan, sansoku, yonte?",[philosophical],,,,,,
+257T,what is hoshin no kokoro o gusu?,[philosophical],,,,,,
+257U,what is setsuninto / katsujinken?,[philosophical],,,,,,
+257V,what is suriashi?,[philosophical],,,,,,
+257W,"what is shu, ha, ri?",[philosophical],,,,,,
+257X,why traditionally are there no punches or kicks in aikido?,"[philosophical, technical]",,,,,,
+257Y,"if aikido is known as the gentle martial art, why do we practice hard techniques?",[philosophical],,,,,,
+257Z,what is sho shin?,[philosophical],Beginner's Way,Beginner's Punch,Beginner's Mind,Beginner's Heart,C - Beginner's Mind,"""Sho shin"" means beginner's mind. It means that you have a mind that is open, unbiased and ready to try new things. It searches for knowledge and is ready to learn. It is also known as the ""white belt mind""."
+002580,what is sho shin sho gai?,[philosophical],Beginner's Mind for your whole life,A Japanese fruit,Immoveable Wisdom,Mind Control Technique,A - Beginner's Mind for your whole life,"""Sho shin sho gai"" means beginner's mind for your whole life. It implies that your mind should always be open to trying new things. It is a lifestyle that should keep the budoka in a state of mind that they are trying things for the first time. It is the ideal mindset for accumulating unbiased experiences."
+002581,what is shu shi?,[philosophical],,,,,,
+002582,what is sanbyoshi?,[philosophical],,,,,,
+002583,what is shomen kita?,[philosophical],,,,,,
+002584,what is ichi ore soto ore?,[philosophical],,,,,,
+002585,"for side strike techniques, sometimes we block high, other times we block low. why?",[technical],,,,,,
+002586,why do we chop the face when pinning in shiho nage?,[technical],To kill uke,To occupy uke's free hand,To complete the pin,To teach uke a lesson,B - To occupy uke's free hand,"In a shiho nage pin, uke is face up (supine). This is the only pin we have in our system where uke is face up. Because of this, uke has the opportunity to punch, kick or attempt to tactically escape with more advantage. We chop the face to force uke to block the strike with the free hand, and we can then complete the pin from the face up position. "
+002587,while doing suwari waza when do you come up on your toes?,[technical],,,,,,
+002588,what are the rules for using atemi versus not using atemi?,[technical],,,,,,
+002589,what are the rules for moving forward with an atemi versus not moving with an atemi?,[technical],,,,,,
+258A,how do we kneel without weapons versus how do we kneel with weapons?,[technical],,,,,,
+258B,how do you place your weapons on the mat versus on the wall versus on the side of the mat? ,[technical],,,,,,
+258C,how many kinds of cross wrist grasps are there? what are they?,[technical],,,,,,
+258D,what is shite's angle relative to uke in shiho nage?,[technical],,,,,,
+258E,what does soke and kancho mean? what is the difference?,[technical],A leader and a follower,A master and a pupil,A father and an uncle,A founder and an administrator,D - A founder and an administrator,"A soke is the founder of an art. In Yoshinkan Aikido, Soke is (and always will be) Gozo Shioda. A Kancho is the current head of the organization or the administrator of the martial art. This can change over time. Bonus: a ""dojo cho"" is the head of one specific school or dojo."
+258F,where do we look when bowing (with and without partner)?,[technical],,,,,,
+258G,where do we look when in kamae with partner?,[technical],,,,,,
+258H,what is the angle of your feet in kamae? what is your weight distribution?,[technical],45 deg & 50/50,45 deg & 60/40,70 deg & 80/20,20 deg & 40/60,B - 45 deg & 60/40,"In kamae, the aikidoka should have their feet angled outward (away from their center line) at 45 degrees each. Their weight distribution should be 60% of their weight on their front leg and 40% of their weight on their back leg."
+258I,"when doing grabbing techniques, sometimes we leave the hand on and sometimes we take it off. why?",[technical],Because we do,Elbow not in center,Wrist higher than elbow,ody lower than center,B - Elbow not in center,"For some grabbing techniques (sode mochi, mune mochi) shite cannot always get uke's elbow into their center. This may be because of flexibility issues or other issues. In the cases where shite cannot get uke's elbow completely into their center (and thus not establish complete control over uke), we leave the grab on. "
+258J,how many kinds of bows are there? what are they?,[technical],2,3,4,6,B - 3,"There are three types of bows we practice. 1. tachi rei or standing bow, 2. seiza rei or seiza bow, 3. chu rei or middle bow (usually done with one knee up - meant to replicate a bow from a samurai in armor)"
+258K,what is san sei no kiai?,"[philosophical, technical]",Three times we move,The voice of the universe,Three Virtues,Three times to kiai,D - Three times to kiai,"San sei no kiai means ""the three times to kiai"". The three times are: 1. to bring yourself up and your opponent down, 2. to finish a movement, 3. to stop a movement from an opponent"
+258L,why do we practice techniques from seiza?,[technical],For the sake of tradition,Because it is hard,To replicate ancient Japanese culture,To be dangerous from kneeling and standing,B - Because it is hard,"Although seiza techniques are from Japanese tradition, we do not kneel in modern society. We practice kneeling techniques because they are difficult to do. By taking on difficult challenges, we become stronger and grow our character."
+258M,why is there no kamae in seiza?,[technical],,,,,,
+258N,why can there be a difference when performing the technique shiho nage?,[technical],Grab vs Strike,Hold vs Submission,Change is good,Uke is larger than shite,A - Grab vs Strike,"In shiho nage from standing (tachi), there is a difference in performing the shiho nage for shite. In grabbing techniques, there is a small pause when bringing uke's hands to shite's forehead. In strike techniques, shite does not pause at the forehead, but moves quickly into the technique."
+258O,what is our sword style?,[technical],Swallow Tail Style,Muso Ryu,Yagyu Shinkage Ryu,Heaven and Earth Style,C - Yagyu Shinkage Ryu,"Our sword style is Yagyu Shinkage Ryu. It was invented by Kamizumi Nobutsuna and was originally called ""Shinkage Ryu"". Around 1565 it was passed on to Yagyu Munetoshi who added the ""Yagyu"" to the sword style name."
+258P,"for mune mochi hiji ate nage, where is the hand for the starting grip?",[technical],,,,,,
+258Q,"for kokyu ho #7, the starting position for this technique is hand on the knees. does shite perform any upward movement with the ankles/feet prior to pivoting for the pin?",[technical],,,,,,
+258R,"for #2 basic techniques (not advanced) that start in ai hanmi instead of gyaku hanmi, is that because it is not possible in those types of situations (ex: shomen uchi hiji ate) we need to keep uke in our center line for as much of the technique as possible prior to completing it?",[technical],,,,,,
+258S,"for ushiro katate eri mochi style techniques, a punch occurs for releasing the wrist grasp but is it unnecessary in the regular eri mochi techniques?",[technical],,,,,,
+258T,why are there no behind techniques from seiza?,[technical],Because Gozo Shioda said so,For the sake of the art,Because it is weird,For the sake of dignity,A - Because Gozo Shioda said so,there should never be a scenario where you let use get behind you. Hanshi Blok asked this question to Gozo Shioda and that was the answer he got. it has not changed. suggestions for overcoming a grab from behind in seiza include standing up.
+258U,how many different ways are there to take uke's arm/hand down in ikkajo/ikkyo/first control techniques?,[technical],,,,,,
+258V,how many different types of pins are there in hiji shime?,[technical],3,4,7,12,A - 3,"There are 3. The typical ""X"" is made when uke is not holding onto you. When you have control over the back of their hand, it is more of an armlock.  From katate aya gyaku mochi, you will grab uke's wrist and lock their arm while grabbing their wrist."
+258W,"with many opponents, where do we look? why?",[technical],,,,,,
+258X,who was Gozo Shioda (Shioda Sensei / Shioda Soke)?,"[historical, people]",,,,,,
+258Y,who was Shinra Saburo Yoshimitsu?,"[historical, people]",,,,,,
+258Z,who was Minamoto No Tametomo (Chinzei Hachiro)?,"[historical, people]",A legendary samurai,A Japanese demi-god,A Chinese demi-god,Miyomoto Musashi's pet goat,A - A legendary samurai,"Minamoto no Tametoro (also referred to as ""Chinzei Hachirō Tametomo"") was a famous samurai in the 12th century. He was knows as a powerful archer, rumored to have sank an entire Taira ship with a single arrow. After the Hogen Rebellion, Tametomo's left arm was injured and he was banished to the island of Oshima. He is documented as the first samurai in history to have committed seppuku."
+002590,who was Takeda Sokaku?,"[historical, people]",,,,,,
+002591,who was Taisen Deshimaru?,"[historical, people]",,,,,,
+002592,who was Kisshomaru Ueshiba?,"[historical, people]",,,,,,
+002593,who was Sen No Rikyu?,"[historical, people]",Tea Ceremony Master,Two Sword Master,Famous Caligrapher,One-Armed Samurai,A - Tea Ceremony Master,"Sen No Rikyu was a 16th century (1522 - 1591) tea master. He perfected ""wabi-cha"", the minimalistic tea ceremony that emphasized simplicity, directness and the beauty of imperfection. He opted to use simple, locally produced items for his tea ceremony instead of extravagant items and ingredients. He introduced the ""so-an"", a grass-hut style ceremony that enforced a democratic atmosphere where, regardless of social status, all guests were equal. He was ordered to commit seppuku in 1591 by Toyotomi Hideyoshi."
+002594,who was Yagyu Jubei?,"[historical, people]",,,,,,
+002595,who was Yagyu Munenori?,"[historical, people]",,,,,,
+002596,who was Kami Izumi Ise No Kami?,"[historical, people]",,,,,,
+002597,who was Aizu Hyuga No Kami?,"[historical, people]",,,,,,
+002598,who was Tokugawa Iyeasu?,"[historical, people]",,,,,,
+002599,"who was ""Shiho Nage Sabu Chan""?","[historical, people]",Aikido's Founder,A Great Swordsman in 1200,O-Sensei's Uncle,"""Shiho Nage Sabu Chan""","D - ""Shiho Nage Sabu Chan""","""Shiho Nage Sabu Chan"" was a mentally ill student of Gozo Shioda who only did Shiho Nage techniques, even when instructed to do other techniques. He eventually received the rank of Shodan, but only in using Shiho Nage."
+259A,who was Morihei Ueshiba?,"[historical, people]",,,,,,
+259B,who was Deguchi Oni Saburo?,"[historical, people]",,,,,,
+259C,who was Miyamoto Musashi?,"[historical, people]",,,,,,
+259D,who was Muso Gonosuke?,"[historical, people]",,,,,,
+259E,who was Prince Minamoto Teijun?,"[historical, people]",,,,,,
+259F,who was Hayashizaki Jinsuke?,"[historical, people]",,,,,,
+259G,who was Katō Kiyomasa?,"[historical, people]",,,,,,
+259H,who was Onono Tofu?,"[historical, people]",,,,,,
+259I,who was Tsukahara Bokuden?,"[historical, people]",,,,,,
+259J,"who was Matasubayashi Samanosuke (Henyasai - ""The Batman"")?","[historical, people]",,,,,,
+259K,who was Hayashida Samon?,"[historical, people]",,,,,,
+259L,who was Jigoro Kano?,"[historical, people]",,,,,,
+259M,who was Mochizuki Minoru?,"[historical, people]",,,,,,
+259N,who was Hanawa Hokichi?,"[historical, people]",,,,,,
+259O,who was Okagiri Kudon?,"[historical, people]",,,,,,
+259P,who was Yamamoto Tsunetomo?,"[historical, people]",,,,,,
+259Q,how many types of punch atemi are there? what does each one do?,[technical],4,3,2,42,B - 3,"We have a back-knuckle punch for distraction, a straight punch (like in kotegaeshi techniques) to force uke to make distance, and an uppercut punch to make uke look up."
+259R,how may different ways can you block a side strike? what is the function of each of them?,[technical],4,6,8,12,B - 6,"There are 6 basic types of side strike block. Block high #1 and #2, Block low #1 and #2, Pivot and Block high and low. There are other advanced side strike blocks as well."
+259S,how many basic techniques do we have where a side strike is blocked low?,[technical],6,5,4,2,B - 5,"five - shiho nage, hiji ate, sokumen irimi nage, kotegaeshi, irimi tsuki"
+259T,Who was Amaterasu (Amateru Kami)?,[philosophical],Goddess of the Sun,Goddess of Wisdom,Gozo Shioda's wife,Goddess of Horses,A - Goddess of the Sun,"Amaterasu or Amateru Kami is the Japanese Goddess of the Sun. From Japanese mythology, another diety, Susanno, threw a dead horse onto one of her looms. In response she sealed herself into a cave, causing total darkness to come over heaven and earth. Omoikane, the God of Wisdom, came up with a plan to lure her out with an eight-sided mirror. This eight-sided mirror is on our aikido crest with a peregrine falcon in the middle, representing Gozo Shioda."
