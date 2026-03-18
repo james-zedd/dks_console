@@ -1,956 +1,959 @@
-[
-    {
-        "id": "255S",
-        "question": "why is there no competition in aikido?",
-        "categories": [
-            "philosophical"
-        ],
-        "correct_answer": "Our greatest opponent is ourselves",
-        "explanation": "In aikido, we work to better ourselves and not to dominate others. Although our techniques are tactically applicable to subduing an individual, our focus is to become the best version of ourselves rather than dominate someone else.",
-        "answers": [
-            "Because we are afraid",
-            "There is but we do not do it",
-            "Our greatest opponent is ourselves",
-            "Aikido requires no competition"
-        ]
-    },
-    {
-        "id": "255T",
-        "question": "why are there sitting/kneeling techniques in aikido?",
-        "categories": [
-            "philosophical"
-        ],
-        "correct_answer": "Because it is hard",
-        "explanation": "We practice kneeling techniques in aikido because it is difficult to do. Through overcoming difficult challenges, we grow as people and become stronger.",
-        "answers": [
-            "For historical reasons",
-            "Because it is hard",
-            "It makes our knees stronger",
-            "It may come in handy one day"
-        ]
-    },
-    {
-        "id": "255V",
-        "question": "why do we hold the sword in our left hand and draw with our right hand?",
-        "categories": [
-            "philosophical",
-            "historical"
-        ],
-        "correct_answer": "Most samurai were right handed",
-        "explanation": "Because most samurai were right-hand dominant, they trained all samurai to use the right hand when drawing. This created consistency with training individually and as a group. Learning to draw from both left and right sides could create two options when one option (draw from the left with right hand) could save time.",
-        "answers": [
-            "Because that is the way swords were made",
-            "Most samurai were right handed",
-            "There is no reason - do what you want",
-            "The left is inappropriate"
-        ]
-    },
-    {
-        "id": "255W",
-        "question": "why do we wear white doji's and why white?",
-        "categories": [
-            "philosophical"
-        ],
-        "correct_answer": "White absorbs all other colors",
-        "explanation": "The color white can change. As aikidoka, we need to be adaptable, like the color white, to whatever situation we are in. White represents the ability to absorb other thoughts, teachings and ways. Some other colors can do this, but not in the same way that white can.",
-        "answers": [
-            "Because it looks cool",
-            "White is the color of death in Japan",
-            "White absorbs all other colors",
-            "Because we wear colored belts"
-        ]
-    },
-    {
-        "id": "255X",
-        "question": "why do we call our uniform a \"dogi\" and not a \"gi\" like other martial arts schools?",
-        "categories": [
-            "philosophical"
-        ],
-        "correct_answer": "It refers specifically to a uniform for practicing martial arts",
-        "explanation": "The term \"dogi\" refers specifically to a uniform used for martial arts, or a \"uniform of the way\". The term \"gi\" can refer to general clothing and exclude that the clothing has a specific purpose for being worn.",
-        "answers": [
-            "Because our uniforms are white",
-            "Because it sounds cooler",
-            "It refers specifically to a uniform for practicing martial arts",
-            "It refers to how we practice martial arts"
-        ]
-    },
-    {
-        "id": "255Y",
-        "question": "what is the significance of the square, triangle and circle in aikido?",
-        "categories": [
-            "philosophical"
-        ],
-        "correct_answer": "Balance, Focus, Movement",
-        "explanation": "The square represents balance as it has four corners. The triangle represents focus with two points going toward the third. The circle represents movement as in a pivot.",
-        "answers": [
-            "Balance, Focus, Movement",
-            "Table, Chair, Door",
-            "Focus, Rhythm, Force",
-            "Love, Laugh, Live"
-        ]
-    },
-    {
-        "id": "255Z",
-        "question": "what is fu yo no yo?",
-        "categories": [
-            "philosophical"
-        ],
-        "correct_answer": "What is not needed is needed",
-        "explanation": "Fu Yo No Yo translates to \"what is not needed is needed\". It can also mean \"what is needed is not needed\". It reminds us that things in our lives can alter our thoughts and behaviors. Sometimes the things we do not want are useful, and sometimes the things we have are not good.",
-        "answers": [
-            "A log hitting a bell",
-            "What is not needed is needed",
-            "A significant type of tea",
-            "A legendary monster"
-        ]
-    },
-    {
-        "id": "002560",
-        "question": "what is kaiten waza?",
-        "categories": [
-            "philosophical"
-        ],
-        "correct_answer": "Evasion Technique",
-        "explanation": "Kaiten waza roughly translates to pivot or evasion techniques. We have several pivots we teach, including 95 degree pivot and 180 degree pivot. Included in these can also be our second kyu evasion and first kyu evasion.",
-        "answers": [
-            "A nice salad",
-            "Pin Technique",
-            "Pivot/Evasion Technique",
-            "Arm Lock Technique"
-        ]
-    },
-    {
-        "id": "002561",
-        "question": "what is ichi go ichi ei?",
-        "categories": [
-            "philosophical"
-        ],
-        "correct_answer": "One Moment, One Opportunity",
-        "explanation": "Ichi Go Ichi Ei means \"one time, one opportunity\". It means you really only do things one time in your life. If you do the same action again, it will not be the same as any similar action you have done. The goal of this saying is to encourage living in the moment.",
-        "answers": [
-            "One Time, One Place",
-            "One Movement, One Strike",
-            "One Moment, One Opportunity",
-            "Two Samurai, One Cup"
-        ]
-    },
-    {
-        "id": "002562",
-        "question": "what is ichi ei chigu?",
-        "categories": [
-            "philosophical"
-        ],
-        "correct_answer": "One moment, wisest choice",
-        "explanation": "\"ichi ei chigu\" means one moment, best/wisest choice. Similar to ichi go ichi ei, you have one opportunity during an encounter to seize the moment and make a positive decision, but this specifically focuses on the idea of making the wisest of choices. That there is an element of \"rightness\" or \"correct behavior\" involved in the decision making process.",
-        "answers": [
-            "One moment, one cup",
-            "One moment, wisest choice",
-            "Two moments, one conclusion",
-            "One toast, two eggs"
-        ]
-    },
-    {
-        "id": "002563",
-        "question": "what is heijo shin kore michi?",
-        "categories": [
-            "philosophical"
-        ],
-        "correct_answer": "Regular Mind is the Way",
-        "explanation": "\"Heijo Shin Kore Michi\" translates to regular/calm mind is the (correct) way. This saying empasizes that a calm, disciplined state of mind can respond best to stressful situations and circumstances. This is epitomized in the story of Sen No Rikyu, the tea master who successfully disarmed Kato Kiyomasa, a famous samurai, by spilling tea on some hot coals in a small tea hut, forcing the two of them to leave while Kiyomasa left his sword behind.",
-        "answers": [
-            "Large Mind is the Way",
-            "Small Mind is the Way",
-            "Regular Mind is the Way",
-            "Enlightened Mind is the Way"
-        ]
-    },
-    {
-        "id": "002564",
-        "question": "what is goroku?",
-        "categories": [
-            "philosophical"
-        ],
-        "correct_answer": "Five Powers",
-        "explanation": "\"Goroku\" means five powers. It refers to the ideal way to grip a sword or how to grab shite. It starts with the pinky finger (5) gripping, then the ring finger (4), then 3, 2 and finally the thumb (1). The goal for the practitioner is to squeeze into the base of the palm for maximum effect.",
-        "answers": [
-            "Five Magics",
-            "Five Powers",
-            "Five Swords",
-            "Five Rings"
-        ]
-    },
-    {
-        "id": "002565",
-        "question": "what is katameru?",
-        "categories": [
-            "philosophical",
-            "technical"
-        ],
-        "correct_answer": "The point where uke cannot resist you",
-        "explanation": "Katameru is translated as \"the point where uke cannot resist what you are about to do next. It indicates that you have broken uke's balance or otherwise made them unable to resist your next movement.",
-        "answers": [
-            "The Bottom",
-            "The Center",
-            "The point at which uke cannot resist you",
-            "The point where no one can resist you"
-        ]
-    },
-    {
-        "id": "002566",
-        "question": "what is tegiri?",
-        "categories": [
-            "philosophical",
-            "technical"
-        ],
-        "correct_answer": "Hand Cutting",
-        "explanation": "Tegiri means hand cutting. \"Te\" is hand and \"Giri\" is cut. This is a hand motion we make when doing kihon dosa, such as elbow power #1 and #2. This motion helps us improve our power when performing a technique and decreases uke's ability to maintain a strong hold.",
-        "answers": [
-            "Hand Cutting",
-            "Hand Hitting",
-            "Hand Moving",
-            "Hand Shaking"
-        ]
-    },
-    {
-        "id": "002567",
-        "question": "what is do?",
-        "categories": [
-            "philosophical"
-        ],
-        "correct_answer": "The Way",
-        "explanation": "\"Do\" when translated to English can mean \"the way\" or \"the path\". It is more of a philosophical path or way rather than a physical road or  path. The way is a set of guiding ideas and principles that aim to achieve a goal for the individual.",
-        "answers": [
-            "The Truth",
-            "The Way",
-            "The Light",
-            "To Do"
-        ]
-    },
-    {
-        "id": "002569",
-        "question": "what is sekka no ki?",
-        "categories": [
-            "philosophical"
-        ],
-        "correct_answer": "Flint and Steel Timing",
-        "explanation": "This saying is about the ideal or perfect timing, where an individual acts instantly for the situation at hand. There is no gap between the situation and the response, like striking flint and steel together, the result (spark) comes instantly. The ideal response is something that can be achieved through training. ",
-        "answers": [
-            "Flint and Steel Timing",
-            "Almost Perfect Timing",
-            "Imperfect Timing",
-            "In due time"
-        ]
-    },
-    {
-        "id": "256A",
-        "question": "what is hyaku shaku kanto ho ippo sumei o?",
-        "categories": [
-            "philosophical"
-        ],
-        "correct_answer": "Climb to the top of a 100 foot tree ...",
-        "explanation": "This translates to \"Climb to the top of a 100-foot tree, then take a step up\". This saying has to do with setting very high goals for your life. It it similar to the phrase \"shoot for the moon\". Setting high goals for your life means that you do not live a simple and complacent life, but aim for large goals. This will make you a stronger and better person.",
-        "answers": [
-            "Climb to the top of a 100 foot tree ...",
-            "Run 10,000 steps daily ...",
-            "Ride 1000 horses in your life ...",
-            "Swim 1 ocean every year ..."
-        ]
-    },
-    {
-        "id": "256B",
-        "question": "what is budo?",
-        "categories": [
-            "philosophical",
-            "historical"
-        ],
-        "correct_answer": "Martial Way",
-        "explanation": "\"Budo\" translates to English as \"martial way\".  It is the study of martial techniques with the goal of adding value to the life of the practitioner. A true budo values personal growth as its key metric.",
-        "answers": [
-            "Martial Strategy",
-            "Martial Way",
-            "Martial Martial",
-            "Martial Truth"
-        ]
-    },
-    {
-        "id": "256C",
-        "question": "what is bujutsu?",
-        "categories": [
-            "philosophical",
-            "historical"
-        ],
-        "correct_answer": "Martial Science",
-        "explanation": "\"Bujutsu\" translates to English as \"martial science\". It is the study of martial techniques with the goal of measuring technique and results. A true bujutsu values physical results as its key metric.",
-        "answers": [
-            "Martial Student",
-            "Martial Science",
-            "Martial Stamina",
-            "Martial Warrior"
-        ]
-    },
-    {
-        "id": "256D",
-        "question": "what is joe hikan shin sui shogo?",
-        "categories": [
-            "philosophical"
-        ],
-        "correct_answer": "Embrace difficulty and your mind will grow",
-        "explanation": "This saying means when you embrace challenges, your mind will grow (blossom). Your mind should grow when it is challenged, but we live in a society where we will trade challenges for easy answers. The goal of the budoka should be to embrace any challenge set before them, and to become stronger and better because they embraced it and overcame it.",
-        "answers": [
-            "Embrace life and be blessed",
-            "Embrace difficulty and your mind will grow",
-            "Embrace each other and life grows",
-            "Embrace nothing and be alone"
-        ]
-    },
-    {
-        "id": "256E",
-        "question": "what is kojiki?",
-        "categories": [
-            "philosophical"
-        ],
-        "correct_answer": "The oldest book in Japan",
-        "explanation": "The Kojiki is the oldest documented book in Japan. Completed in 712 CE, it is a foundational text of mythology, shinto and early Japanese history.",
-        "answers": [
-            "A legendary sword",
-            "Crazy one-eyed archer",
-            "A Japanese bird that will fight humans",
-            "The oldest book in Japan"
-        ]
-    },
-    {
-        "id": "256F",
-        "question": "what is angatsu (agatsu)?",
-        "categories": [
-            "philosophical"
-        ],
-        "correct_answer": "Victory over self",
-        "explanation": "Agatsu (angatsu) means victory over yourself. Philosophically is means you fight a battle against yourself and the prize you get for winning is yourself. It is related to defeating your ego and focusing on your disciplines in life.",
-        "answers": [
-            "Victory over self",
-            "Correct Victory",
-            "Samurai Honor",
-            "A brand of saki"
-        ]
-    },
-    {
-        "id": "256G",
-        "question": "what is masakatsu?",
-        "categories": [
-            "philosophical"
-        ],
-        "correct_answer": "Correct Victory",
-        "explanation": "Masakatsu mean correct victory. It means that you must win in the correct way - a way that is constructive rather than destructive. There are many ways to achieve a goal, but the correct way is the one that makes you a greater person.",
-        "answers": [
-            "Victory over self",
-            "Correct Victory",
-            "Samurai Honor",
-            "Breakfast"
-        ]
-    },
-    {
-        "id": "256H",
-        "question": "what is kachi hayami?",
-        "categories": [
-            "philosophical"
-        ],
-        "correct_answer": "Victory in the correct time",
-        "explanation": "Kachi Hayami means victory in the correct time. It means you should not rush to achieve your goals, but let them happen in the correct time. Rushing too much or not enough means that you are missing part of the journey.",
-        "answers": [
-            "Victory over self",
-            "Victory in the correct time",
-            "Correct timing of log and bell",
-            "A British Fry Up"
-        ]
-    },
-    {
-        "id": "256J",
-        "question": "what does kenshu mean?",
-        "categories": [
-            "philosophical"
-        ],
-        "correct_answer": "Sword Sharpening",
-        "explanation": "\"Kenshu\" translates to sword sharpening. It is a term used for a specific class in aikido that is more intense than regular classes. Kenshu classes usually involve lectures, detailed instructions on physical techniques and intense training exercises.",
-        "answers": [
-            "Weapons Practice",
-            "Sword Duel",
-            "Sword Sharpening",
-            "Weapon Making"
-        ]
-    },
-    {
-        "id": "256K",
-        "question": "what does chudokan mean?",
-        "categories": [
-            "philosophical"
-        ],
-        "correct_answer": "House of the middle way",
-        "explanation": "\"Chudokan\" means house of the middle way. \"Chu\" translates to middle, \"Do\" translates to \"The Way\" and \"Kan\" translates to \"House of\". This is the name of our main headquarters dojo in Windsor, Ontario.",
-        "answers": [
-            "House of pain",
-            "House of Chi",
-            "House of no house",
-            "House of the middle way"
-        ]
-    },
-    {
-        "id": "256L",
-        "question": "what does yoshinkan mean?",
-        "categories": [
-            "philosophical"
-        ],
-        "correct_answer": "House of Mind Cultivation",
-        "explanation": "\"Yoshinkan\" means house of mind cultivation. This name was given to our style of aikido by Gozo Shioda, the founder of Yoshinkan Aikido. It was the name of Shioda's father's judo dojo. \"Mind cultivation\" means that your mind is intended to grow through the training.",
-        "answers": [
-            "House of pain",
-            "House of Mind Cultivation",
-            "House of No Mind",
-            "House of No House"
-        ]
-    },
-    {
-        "id": "256M",
-        "question": "what is zanshin?",
-        "categories": [
-            "philosophical"
-        ],
-        "correct_answer": "Continuing Mind",
-        "explanation": "\"Zanshin\" means continuing mind. It has also been translated as \"lingering spirit\" or \"remaining mind\". It refers to a state of relaxed alertness and total awareness maintained after an action. It represents a continuous, focused presence, which is crutial for post-technique readiness. It also is applicable in daily life as mindful focus.",
-        "answers": [
-            "Continuing Mind",
-            "Abstract Mind",
-            "Death Mind",
-            "Zen Mind"
-        ]
-    },
-    {
-        "id": "256O",
-        "question": "why do we say osu? what does it mean?",
-        "categories": [
-            "philosophical"
-        ],
-        "correct_answer": "To push. to endure",
-        "explanation": "Although there are many theories about the origins of the word \"osu\", the most relevant one to our study means \"to push, to endure\". This is something we say before we train with partners or in a group. It is also a greeting we use when aikidoka see one another. The \"push\" aspect of this saying can be interpreted as \"I push myself aside for you\".  This is attributed to samurai who lived in small clans and did not always get along with one another. When it was time to train, they would say \"osu\" to one another to put aside any differences they had and simply train so they could be more useful as soldiers. The \"to endure\" aspect of this saying can be interpreted as to undergo intense training, or to commit to being the best person you can be during the training.",
-        "answers": [
-            "Because we do",
-            "It means \"I will not kill you\"",
-            "To push, to endure",
-            "OSU!"
-        ]
-    },
-    {
-        "id": "256P",
-        "question": "what is a hakama? why do we wear it in aikido?",
-        "categories": [
-            "philosophical"
-        ],
-        "correct_answer": "Traditional samurai horse-riding garb",
-        "explanation": "A hakama is a skirt-like set of pants that are worn on the lower body over the uniform. It is worn in aikido but also in other arts like Judo and Karate. Historically the hakama was meant to be worn when riding on horse to protect the samurai's legs from brambles, brush, etc. After the samurai dismounted and became foot soldiers, they persisted in wearing them as it set them apart from common soldiers. In many schools only black belts will wear hakama, although some exceptions can be made.",
-        "answers": [
-            "A skirt",
-            "A dress",
-            "Baggy samurai pants",
-            "Traditional samurai horse-riding garb"
-        ]
-    },
-    {
-        "id": "256R",
-        "question": "what do the two pleats in the back of the hakama represent?",
-        "categories": [
-            "philosophical"
-        ],
-        "correct_answer": "Loyalty and Humility",
-        "explanation": "The two pleats on the back of the hakama represent Loyalty and Humility. These two characteristics were meant to be behind the samurai and drive them forward in life. They were key aspects in samurai day-to-day life.",
-        "answers": [
-            "Strength and Honor",
-            "Honor and Loyalty",
-            "Loyalty and Humility",
-            "Humility and Strength"
-        ]
-    },
-    {
-        "id": "256S",
-        "question": "what is aikido no kokoro?",
-        "categories": [
-            "philosophical"
-        ],
-        "correct_answer": "Aikido's Heart",
-        "explanation": "The spirit/heart of aikido isan amorphous term which applies more to how aikido applies to an individual. This tends to be a high level dan question and is asked when looking to determine an individual's focus with and through aikido. An answer will very much apply to that person and tends to be more philosophical in nature and less technical.",
-        "answers": [
-            "Aikido's Lungs",
-            "Aikido's Heart",
-            "Aikido's Brain",
-            "Aikido's Liver"
-        ]
-    },
-    {
-        "id": "256T",
-        "question": "what is shu chu ryoku?",
-        "categories": [
-            "philosophical"
-        ],
-        "correct_answer": "Focus all your energy to one point",
-        "explanation": "The saying \"shu chu (shuchu) ryoku\" means \"focus all your energy to one point\". This was the ishi of Gozo Shioda, the founder of Yoshinkan Aikido. He believed that if an individual focused all their energy to one area, they could be extremely powerful.",
-        "answers": [
-            "5 powers",
-            "5 rings",
-            "Focus all your energy to one point",
-            "Focus all your chakras to one finger"
-        ]
-    },
-    {
-        "id": "256V",
-        "question": "what is shimoku no ashi?",
-        "categories": [
-            "philosophical"
-        ],
-        "correct_answer": "Log and Bell Feet",
-        "explanation": "This means \"the bell and the log feet\". It emphasizes that the feet of the aikidoka should be at a 90 degree angle. It is called this because when a log hits a bell at a perfect 90 degree angle, it is most effective. The same is true for the aikidoka's feet when they are at 90 degrees total (each foot on a 45 degree angle)",
-        "answers": [
-            "Smoking Ashes",
-            "Ashes of Wisdom",
-            "Incense Ashes",
-            "Log and Bell Feet"
-        ]
-    },
-    {
-        "id": "256W",
-        "question": "what is shi sei o tada shite?",
-        "categories": [
-            "philosophical"
-        ],
-        "correct_answer": "Make your back straight",
-        "explanation": "The saying \"shi sei o tada shite\" means make your back straight. It is a saying we use in aikido during training and when sitting in seiza. A straight back while in training will help shite do a more powerful technique. A straight back while in seiza will show focus and attention while sitting. The saying also carries the meaning \"Make your life straight\", which means the budoka should do everything in their power to keep their life on a positive path.",
-        "answers": [
-            "Keep your head up",
-            "Make your back straight",
-            "Keep your head low",
-            "Make your arms straight"
-        ]
-    },
-    {
-        "id": "256X",
-        "question": "what is malobashi?",
-        "categories": [
-            "philosophical"
-        ],
-        "correct_answer": "Just do it",
-        "explanation": "Malobashi (marobashi) means just do it. If there is an inconvenience in your life, get it done and be done with it. Do not waste time wishing things were different. Do it quickly and move on.",
-        "answers": [
-            "A type of sushi",
-            "Samurai loincloth",
-            "Just do it",
-            "A belief about the stars"
-        ]
-    },
-    {
-        "id": "256Y",
-        "question": "what is ken o fumu?",
-        "categories": [
-            "philosophical"
-        ],
-        "correct_answer": "Step on the sword",
-        "explanation": "Ken o fumu means to step on the sword. If you are on a path (have a goal) and there is a physical sword on the path (an obstacle/inconvenience) then you step on the sword and be done with it. Unlike malobashi, Ken o fumu has an element of physical/mental/emotional pain that comes with it.",
-        "answers": [
-            "Sword's fury",
-            "Just do it",
-            "Sword steps",
-            "Step on the sword"
-        ]
-    },
-    {
-        "id": "256Z",
-        "question": "what is jiki shin kore dojo?",
-        "categories": [
-            "philosophical"
-        ],
-        "correct_answer": "When the mind is correct, everywhere is the  dojo",
-        "explanation": "This saying means that when you have the correct mind, every opportunity in life is a chance to learn and grow. A correct mind seeks knowledge and experiences and is willing to adapt.",
-        "answers": [
-            "When the mind is correct, everywhere is the dojo",
-            "When the mind is empty, the tea will flow",
-            "When the bottle is empty, the tears will flow",
-            "When the belly is empty, you need food"
-        ]
-    },
-    {
-        "id": "002570",
-        "question": "what is an ishi? what is your ishi and how does it apply to your life?",
-        "categories": [
-            "philosophical"
-        ],
-        "correct_answer": "Personal Saying",
-        "explanation": "An ishi is a personal saying that is significant to the budoka. It can be a quote, a poem or a unique saying of significant value. Everyone will have personal reasons for choosing their ishi. A budoka can have more than one ishi.",
-        "answers": [
-            "Personal Brand",
-            "Personal Life",
-            "Personal Person",
-            "Personal Saying"
-        ]
-    },
-    {
-        "id": "002571",
-        "question": "why do we wear left over right on our dogi top?",
-        "categories": [
-            "philosophical"
-        ],
-        "correct_answer": "Passive over agressive",
-        "explanation": "Traditionally, the left hand was seen as the passive hand as the right hand would be the one to draw/use weapons.  We always want to show our passive side first when dealing with conflict before we show our agressive side.",
-        "answers": [
-            "Modesty",
-            "Etiquite",
-            "For sport",
-            "Passive over Agressive"
-        ]
-    },
-    {
-        "id": "002572",
-        "question": "why do we study the Japanese language?",
-        "categories": [
-            "philosophical"
-        ],
-        "correct_answer": "Adaptability",
-        "explanation": "Aikido originates from Japan. We study the Japanese language not only to challenge our minds, but to create adaptability in communication to other dojos. Not all dojos will speak the primary language of the aikidoka's home dojo. Learning to speak Japanese can bridge communication gaps between different dojos across the world.",
-        "answers": [
-            "Fun",
-            "To order sushi",
-            "Because sensei said so",
-            "Adaptability"
-        ]
-    },
-    {
-        "id": "002573",
-        "question": "which way should the front of the dojo face and why?",
-        "categories": [
-            "philosophical"
-        ],
-        "correct_answer": "North",
-        "explanation": "The front of the dojo (shomen) should face North. This was established because bad weather typically came from the North in Japan and Japanese wanted to appease the gods, so they would bow to the North.",
-        "answers": [
-            "North",
-            "South",
-            "East",
-            "Left"
-        ]
-    },
-    {
-        "id": "257E",
-        "question": "why do we sometimes use \"yon\" instead of \"shi\" as the word representing the number four?",
-        "categories": [
-            "philosophical"
-        ],
-        "correct_answer": "Death",
-        "explanation": "We sometimes use the word \"yon\" instead of \"shi\" because \"shi\" is the root word in death. Japanese superstition did not want to use \"shi\" when naming specific things as they thought it may \"invite death\" into that thing. For example, a fourth degree black belt is a \"Yondan\" and not a \"Shidan\" (no one should be the \"death dan\"!)",
-        "answers": [
-            "Courtesy",
-            "Wisdom",
-            "Honesty",
-            "Death"
-        ]
-    },
-    {
-        "id": "257Z",
-        "question": "what is sho shin?",
-        "categories": [
-            "philosophical"
-        ],
-        "correct_answer": "Beginner's Mind",
-        "explanation": "\"Sho shin\" means beginner's mind. It means that you have a mind that is open, unbiased and ready to try new things. It searches for knowledge and is ready to learn. It is also known as the \"white belt mind\".",
-        "answers": [
-            "Beginner's Way",
-            "Beginner's Punch",
-            "Beginner's Mind",
-            "Beginner's Heart"
-        ]
-    },
-    {
-        "id": "002580",
-        "question": "what is sho shin sho gai?",
-        "categories": [
-            "philosophical"
-        ],
-        "correct_answer": "Beginner's Mind for your whole life",
-        "explanation": "\"Sho shin sho gai\" means beginner's mind for your whole life. It implies that your mind should always be open to trying new things. It is a lifestyle that should keep the budoka in a state of mind that they are trying things for the first time. It is the ideal mindset for accumulating unbiased experiences.",
-        "answers": [
-            "Beginner's Mind for your whole life",
-            "A Japanese fruit",
-            "Immoveable Wisdom",
-            "Mind Control Technique"
-        ]
-    },
-    {
-        "id": "002586",
-        "question": "why do we chop the face when pinning in shiho nage?",
-        "categories": [
-            "technical"
-        ],
-        "correct_answer": "To occupy uke's free hand",
-        "explanation": "In a shiho nage pin, uke is face up (supine). This is the only pin we have in our system where uke is face up. Because of this, uke has the opportunity to punch, kick or attempt to tactically escape with more advantage. We chop the face to force uke to block the strike with the free hand, and we can then complete the pin from the face up position. ",
-        "answers": [
-            "To kill uke",
-            "To occupy uke's free hand",
-            "To complete the pin",
-            "To teach uke a lesson"
-        ]
-    },
-    {
-        "id": "258E",
-        "question": "what does soke and kancho mean? what is the difference?",
-        "categories": [
-            "technical"
-        ],
-        "correct_answer": "A founder and an administrator",
-        "explanation": "A soke is the founder of an art. In Yoshinkan Aikido, Soke is (and always will be) Gozo Shioda. A Kancho is the current head of the organization or the administrator of the martial art. This can change over time. Bonus: a \"dojo cho\" is the head of one specific school or dojo.",
-        "answers": [
-            "A leader and a follower",
-            "A master and a pupil",
-            "A father and an uncle",
-            "A founder and an administrator"
-        ]
-    },
-    {
-        "id": "258H",
-        "question": "what is the angle of your feet in kamae? what is your weight distribution?",
-        "categories": [
-            "technical"
-        ],
-        "correct_answer": "45 deg & 60/40",
-        "explanation": "In kamae, the aikidoka should have their feet angled outward (away from their center line) at 45 degrees each. Their weight distribution should be 60% of their weight on their front leg and 40% of their weight on their back leg.",
-        "answers": [
-            "45 deg & 50/50",
-            "45 deg & 60/40",
-            "70 deg & 80/20",
-            "20 deg & 40/60"
-        ]
-    },
-    {
-        "id": "258I",
-        "question": "when doing grabbing techniques, sometimes we leave the hand on and sometimes we take it off. why?",
-        "categories": [
-            "technical"
-        ],
-        "correct_answer": "Elbow not in center",
-        "explanation": "For some grabbing techniques (sode mochi, mune mochi) shite cannot always get uke's elbow into their center. This may be because of flexibility issues or other issues. In the cases where shite cannot get uke's elbow completely into their center (and thus not establish complete control over uke), we leave the grab on. ",
-        "answers": [
-            "Because we do",
-            "Elbow not in center",
-            "Wrist higher than elbow",
-            "ody lower than center"
-        ]
-    },
-    {
-        "id": "258J",
-        "question": "how many kinds of bows are there? what are they?",
-        "categories": [
-            "technical"
-        ],
-        "correct_answer": "3",
-        "explanation": "There are three types of bows we practice. 1. tachi rei or standing bow, 2. seiza rei or seiza bow, 3. chu rei or middle bow (usually done with one knee up - meant to replicate a bow from a samurai in armor)",
-        "answers": [
-            "2",
-            "3",
-            "4",
-            "6"
-        ]
-    },
-    {
-        "id": "258K",
-        "question": "what is san sei no kiai?",
-        "categories": [
-            "philosophical",
-            "technical"
-        ],
-        "correct_answer": "Three times to kiai",
-        "explanation": "San sei no kiai means \"the three times to kiai\". The three times are: 1. to bring yourself up and your opponent down, 2. to finish a movement, 3. to stop a movement from an opponent",
-        "answers": [
-            "Three times we move",
-            "The voice of the universe",
-            "Three Virtues",
-            "Three times to kiai"
-        ]
-    },
-    {
-        "id": "258L",
-        "question": "why do we practice techniques from seiza?",
-        "categories": [
-            "technical"
-        ],
-        "correct_answer": "Because it is hard",
-        "explanation": "Although seiza techniques are from Japanese tradition, we do not kneel in modern society. We practice kneeling techniques because they are difficult to do. By taking on difficult challenges, we become stronger and grow our character.",
-        "answers": [
-            "For the sake of tradition",
-            "Because it is hard",
-            "To replicate ancient Japanese culture",
-            "To be dangerous from kneeling and standing"
-        ]
-    },
-    {
-        "id": "258N",
-        "question": "why can there be a difference when performing the technique shiho nage?",
-        "categories": [
-            "technical"
-        ],
-        "correct_answer": "Grab vs Strike",
-        "explanation": "In shiho nage from standing (tachi), there is a difference in performing the shiho nage for shite. In grabbing techniques, there is a small pause when bringing uke's hands to shite's forehead. In strike techniques, shite does not pause at the forehead, but moves quickly into the technique.",
-        "answers": [
-            "Grab vs Strike",
-            "Hold vs Submission",
-            "Change is good",
-            "Uke is larger than shite"
-        ]
-    },
-    {
-        "id": "258O",
-        "question": "what is our sword style?",
-        "categories": [
-            "technical"
-        ],
-        "correct_answer": "Yagyu Shinkage Ryu",
-        "explanation": "Our sword style is Yagyu Shinkage Ryu. It was invented by Kamizumi Nobutsuna and was originally called \"Shinkage Ryu\". Around 1565 it was passed on to Yagyu Munetoshi who added the \"Yagyu\" to the sword style name.",
-        "answers": [
-            "Swallow Tail Style",
-            "Muso Ryu",
-            "Yagyu Shinkage Ryu",
-            "Heaven and Earth Style"
-        ]
-    },
-    {
-        "id": "258T",
-        "question": "why are there no behind techniques from seiza?",
-        "categories": [
-            "technical"
-        ],
-        "correct_answer": "Because Gozo Shioda said so",
-        "explanation": "there should never be a scenario where you let use get behind you. Hanshi Blok asked this question to Gozo Shioda and that was the answer he got. it has not changed. suggestions for overcoming a grab from behind in seiza include standing up.",
-        "answers": [
-            "Because Gozo Shioda said so",
-            "For the sake of the art",
-            "Because it is weird",
-            "For the sake of dignity"
-        ]
-    },
-    {
-        "id": "258V",
-        "question": "how many different types of pins are there in hiji shime?",
-        "categories": [
-            "technical"
-        ],
-        "correct_answer": "3",
-        "explanation": "There are 3. The typical \"X\" is made when uke is not holding onto you. When you have control over the back of their hand, it is more of an armlock.  From katate aya gyaku mochi, you will grab uke's wrist and lock their arm while grabbing their wrist.",
-        "answers": [
-            "3",
-            "4",
-            "7",
-            "12"
-        ]
-    },
-    {
-        "id": "258Z",
-        "question": "who was Minamoto No Tametomo (Chinzei Hachiro)?",
-        "categories": [
-            "historical",
-            "people"
-        ],
-        "correct_answer": "A legendary samurai",
-        "explanation": "Minamoto no Tametoro (also referred to as \"Chinzei Hachir\u014d Tametomo\") was a famous samurai in the 12th century. He was knows as a powerful archer, rumored to have sank an entire Taira ship with a single arrow. After the Hogen Rebellion, Tametomo's left arm was injured and he was banished to the island of Oshima. He is documented as the first samurai in history to have committed seppuku.",
-        "answers": [
-            "A legendary samurai",
-            "A Japanese demi-god",
-            "A Chinese demi-god",
-            "Miyomoto Musashi's pet goat"
-        ]
-    },
-    {
-        "id": "002593",
-        "question": "who was Sen No Rikyu?",
-        "categories": [
-            "historical",
-            "people"
-        ],
-        "correct_answer": "Tea Ceremony Master",
-        "explanation": "Sen No Rikyu was a 16th century (1522 - 1591) tea master. He perfected \"wabi-cha\", the minimalistic tea ceremony that emphasized simplicity, directness and the beauty of imperfection. He opted to use simple, locally produced items for his tea ceremony instead of extravagant items and ingredients. He introduced the \"so-an\", a grass-hut style ceremony that enforced a democratic atmosphere where, regardless of social status, all guests were equal. He was ordered to commit seppuku in 1591 by Toyotomi Hideyoshi.",
-        "answers": [
-            "Tea Ceremony Master",
-            "Two Sword Master",
-            "Famous Caligrapher",
-            "One-Armed Samurai"
-        ]
-    },
-    {
-        "id": "002599",
-        "question": "who was \"Shiho Nage Sabu Chan\"?",
-        "categories": [
-            "historical",
-            "people"
-        ],
-        "correct_answer": "\"Shiho Nage Sabu Chan\"",
-        "explanation": "\"Shiho Nage Sabu Chan\" was a mentally ill student of Gozo Shioda who only did Shiho Nage techniques, even when instructed to do other techniques. He eventually received the rank of Shodan, but only in using Shiho Nage.",
-        "answers": [
-            "Aikido's Founder",
-            "A Great Swordsman in 1200",
-            "O-Sensei's Uncle",
-            "\"Shiho Nage Sabu Chan\""
-        ]
-    },
-    {
-        "id": "259Q",
-        "question": "how many types of punch atemi are there? what does each one do?",
-        "categories": [
-            "technical"
-        ],
-        "correct_answer": "3",
-        "explanation": "We have a back-knuckle punch for distraction, a straight punch (like in kotegaeshi techniques) to force uke to make distance, and an uppercut punch to make uke look up.",
-        "answers": [
-            "4",
-            "3",
-            "2",
-            "42"
-        ]
-    },
-    {
-        "id": "259R",
-        "question": "how may different ways can you block a side strike? what is the function of each of them?",
-        "categories": [
-            "technical"
-        ],
-        "correct_answer": "6",
-        "explanation": "There are 6 basic types of side strike block. Block high #1 and #2, Block low #1 and #2, Pivot and Block high and low. There are other advanced side strike blocks as well.",
-        "answers": [
-            "4",
-            "6",
-            "8",
-            "12"
-        ]
-    },
-    {
-        "id": "259S",
-        "question": "how many basic techniques do we have where a side strike is blocked low?",
-        "categories": [
-            "technical"
-        ],
-        "correct_answer": "5",
-        "explanation": "five - shiho nage, hiji ate, sokumen irimi nage, kotegaeshi, irimi tsuki",
-        "answers": [
-            "6",
-            "5",
-            "4",
-            "2"
-        ]
-    },
-    {
-        "id": "259T",
-        "question": "Who was Amaterasu (Amateru Kami)?",
-        "categories": [
-            "philosophical"
-        ],
-        "correct_answer": "Goddess of the Sun",
-        "explanation": "Amaterasu or Amateru Kami is the Japanese Goddess of the Sun. From Japanese mythology, another diety, Susanno, threw a dead horse onto one of her looms. In response she sealed herself into a cave, causing total darkness to come over heaven and earth. Omoikane, the God of Wisdom, came up with a plan to lure her out with an eight-sided mirror. This eight-sided mirror is on our aikido crest with a peregrine falcon in the middle, representing Gozo Shioda.",
-        "answers": [
-            "Goddess of the Sun",
-            "Goddess of Wisdom",
-            "Gozo Shioda's wife",
-            "Goddess of Horses"
-        ]
-    }
-]
+{
+    "v": 2,
+    "questions": [
+        {
+            "id": "255S",
+            "question": "why is there no competition in aikido?",
+            "categories": [
+                "philosophical"
+            ],
+            "correct_answer": "Our greatest opponent is ourselves",
+            "explanation": "In aikido, we work to better ourselves and not to dominate others. Although our techniques are tactically applicable to subduing an individual, our focus is to become the best version of ourselves rather than dominate someone else.",
+            "answers": [
+                "Because we are afraid",
+                "There is but we do not do it",
+                "Our greatest opponent is ourselves",
+                "Aikido requires no competition"
+            ]
+        },
+        {
+            "id": "255T",
+            "question": "why are there sitting/kneeling techniques in aikido?",
+            "categories": [
+                "philosophical"
+            ],
+            "correct_answer": "Because it is hard",
+            "explanation": "We practice kneeling techniques in aikido because it is difficult to do. Through overcoming difficult challenges, we grow as people and become stronger.",
+            "answers": [
+                "For historical reasons",
+                "Because it is hard",
+                "It makes our knees stronger",
+                "It may come in handy one day"
+            ]
+        },
+        {
+            "id": "255V",
+            "question": "why do we hold the sword in our left hand and draw with our right hand?",
+            "categories": [
+                "philosophical",
+                "historical"
+            ],
+            "correct_answer": "Most samurai were right handed",
+            "explanation": "Because most samurai were right-hand dominant, they trained all samurai to use the right hand when drawing. This created consistency with training individually and as a group. Learning to draw from both left and right sides could create two options when one option (draw from the left with right hand) could save time.",
+            "answers": [
+                "Because that is the way swords were made",
+                "Most samurai were right handed",
+                "There is no reason - do what you want",
+                "The left is inappropriate"
+            ]
+        },
+        {
+            "id": "255W",
+            "question": "why do we wear white doji's and why white?",
+            "categories": [
+                "philosophical"
+            ],
+            "correct_answer": "White absorbs all other colors",
+            "explanation": "The color white can change. As aikidoka, we need to be adaptable, like the color white, to whatever situation we are in. White represents the ability to absorb other thoughts, teachings and ways. Some other colors can do this, but not in the same way that white can.",
+            "answers": [
+                "Because it looks cool",
+                "White is the color of death in Japan",
+                "White absorbs all other colors",
+                "Because we wear colored belts"
+            ]
+        },
+        {
+            "id": "255X",
+            "question": "why do we call our uniform a \"dogi\" and not a \"gi\" like other martial arts schools?",
+            "categories": [
+                "philosophical"
+            ],
+            "correct_answer": "It refers specifically to a uniform for practicing martial arts",
+            "explanation": "The term \"dogi\" refers specifically to a uniform used for martial arts, or a \"uniform of the way\". The term \"gi\" can refer to general clothing and exclude that the clothing has a specific purpose for being worn.",
+            "answers": [
+                "Because our uniforms are white",
+                "Because it sounds cooler",
+                "It refers specifically to a uniform for practicing martial arts",
+                "It refers to how we practice martial arts"
+            ]
+        },
+        {
+            "id": "255Y",
+            "question": "what is the significance of the square, triangle and circle in aikido?",
+            "categories": [
+                "philosophical"
+            ],
+            "correct_answer": "Balance, Focus, Movement",
+            "explanation": "The square represents balance as it has four corners. The triangle represents focus with two points going toward the third. The circle represents movement as in a pivot.",
+            "answers": [
+                "Balance, Focus, Movement",
+                "Table, Chair, Door",
+                "Focus, Rhythm, Force",
+                "Love, Laugh, Live"
+            ]
+        },
+        {
+            "id": "255Z",
+            "question": "what is fu yo no yo?",
+            "categories": [
+                "philosophical"
+            ],
+            "correct_answer": "What is not needed is needed",
+            "explanation": "Fu Yo No Yo translates to \"what is not needed is needed\". It can also mean \"what is needed is not needed\". It reminds us that things in our lives can alter our thoughts and behaviors. Sometimes the things we do not want are useful, and sometimes the things we have are not good.",
+            "answers": [
+                "A log hitting a bell",
+                "What is not needed is needed",
+                "A significant type of tea",
+                "A legendary monster"
+            ]
+        },
+        {
+            "id": "002560",
+            "question": "what is kaiten waza?",
+            "categories": [
+                "philosophical"
+            ],
+            "correct_answer": "Evasion Technique",
+            "explanation": "Kaiten waza roughly translates to pivot or evasion techniques. We have several pivots we teach, including 95 degree pivot and 180 degree pivot. Included in these can also be our second kyu evasion and first kyu evasion.",
+            "answers": [
+                "A nice salad",
+                "Pin Technique",
+                "Pivot/Evasion Technique",
+                "Arm Lock Technique"
+            ]
+        },
+        {
+            "id": "002561",
+            "question": "what is ichi go ichi ei?",
+            "categories": [
+                "philosophical"
+            ],
+            "correct_answer": "One Moment, One Opportunity",
+            "explanation": "Ichi Go Ichi Ei means \"one time, one opportunity\". It means you really only do things one time in your life. If you do the same action again, it will not be the same as any similar action you have done. The goal of this saying is to encourage living in the moment.",
+            "answers": [
+                "One Time, One Place",
+                "One Movement, One Strike",
+                "One Moment, One Opportunity",
+                "Two Samurai, One Cup"
+            ]
+        },
+        {
+            "id": "002562",
+            "question": "what is ichi ei chigu?",
+            "categories": [
+                "philosophical"
+            ],
+            "correct_answer": "One moment, wisest choice",
+            "explanation": "\"ichi ei chigu\" means one moment, best/wisest choice. Similar to ichi go ichi ei, you have one opportunity during an encounter to seize the moment and make a positive decision, but this specifically focuses on the idea of making the wisest of choices. That there is an element of \"rightness\" or \"correct behavior\" involved in the decision making process.",
+            "answers": [
+                "One moment, one cup",
+                "One moment, wisest choice",
+                "Two moments, one conclusion",
+                "One toast, two eggs"
+            ]
+        },
+        {
+            "id": "002563",
+            "question": "what is heijo shin kore michi?",
+            "categories": [
+                "philosophical"
+            ],
+            "correct_answer": "Regular Mind is the Way",
+            "explanation": "\"Heijo Shin Kore Michi\" translates to regular/calm mind is the (correct) way. This saying empasizes that a calm, disciplined state of mind can respond best to stressful situations and circumstances. This is epitomized in the story of Sen No Rikyu, the tea master who successfully disarmed Kato Kiyomasa, a famous samurai, by spilling tea on some hot coals in a small tea hut, forcing the two of them to leave while Kiyomasa left his sword behind.",
+            "answers": [
+                "Large Mind is the Way",
+                "Small Mind is the Way",
+                "Regular Mind is the Way",
+                "Enlightened Mind is the Way"
+            ]
+        },
+        {
+            "id": "002564",
+            "question": "what is goroku?",
+            "categories": [
+                "philosophical"
+            ],
+            "correct_answer": "Five Powers",
+            "explanation": "\"Goroku\" means five powers. It refers to the ideal way to grip a sword or how to grab shite. It starts with the pinky finger (5) gripping, then the ring finger (4), then 3, 2 and finally the thumb (1). The goal for the practitioner is to squeeze into the base of the palm for maximum effect.",
+            "answers": [
+                "Five Magics",
+                "Five Powers",
+                "Five Swords",
+                "Five Rings"
+            ]
+        },
+        {
+            "id": "002565",
+            "question": "what is katameru?",
+            "categories": [
+                "philosophical",
+                "technical"
+            ],
+            "correct_answer": "The point where uke cannot resist you",
+            "explanation": "Katameru is translated as \"the point where uke cannot resist what you are about to do next. It indicates that you have broken uke's balance or otherwise made them unable to resist your next movement.",
+            "answers": [
+                "The Bottom",
+                "The Center",
+                "The point at which uke cannot resist you",
+                "The point where no one can resist you"
+            ]
+        },
+        {
+            "id": "002566",
+            "question": "what is tegiri?",
+            "categories": [
+                "philosophical",
+                "technical"
+            ],
+            "correct_answer": "Hand Cutting",
+            "explanation": "Tegiri means hand cutting. \"Te\" is hand and \"Giri\" is cut. This is a hand motion we make when doing kihon dosa, such as elbow power #1 and #2. This motion helps us improve our power when performing a technique and decreases uke's ability to maintain a strong hold.",
+            "answers": [
+                "Hand Cutting",
+                "Hand Hitting",
+                "Hand Moving",
+                "Hand Shaking"
+            ]
+        },
+        {
+            "id": "002567",
+            "question": "what is do?",
+            "categories": [
+                "philosophical"
+            ],
+            "correct_answer": "The Way",
+            "explanation": "\"Do\" when translated to English can mean \"the way\" or \"the path\". It is more of a philosophical path or way rather than a physical road or  path. The way is a set of guiding ideas and principles that aim to achieve a goal for the individual.",
+            "answers": [
+                "The Truth",
+                "The Way",
+                "The Light",
+                "To Do"
+            ]
+        },
+        {
+            "id": "002569",
+            "question": "what is sekka no ki?",
+            "categories": [
+                "philosophical"
+            ],
+            "correct_answer": "Flint and Steel Timing",
+            "explanation": "This saying is about the ideal or perfect timing, where an individual acts instantly for the situation at hand. There is no gap between the situation and the response, like striking flint and steel together, the result (spark) comes instantly. The ideal response is something that can be achieved through training. ",
+            "answers": [
+                "Flint and Steel Timing",
+                "Almost Perfect Timing",
+                "Imperfect Timing",
+                "In due time"
+            ]
+        },
+        {
+            "id": "256A",
+            "question": "what is hyaku shaku kanto ho ippo sumei o?",
+            "categories": [
+                "philosophical"
+            ],
+            "correct_answer": "Climb to the top of a 100 foot tree ...",
+            "explanation": "This translates to \"Climb to the top of a 100-foot tree, then take a step up\". This saying has to do with setting very high goals for your life. It it similar to the phrase \"shoot for the moon\". Setting high goals for your life means that you do not live a simple and complacent life, but aim for large goals. This will make you a stronger and better person.",
+            "answers": [
+                "Climb to the top of a 100 foot tree ...",
+                "Run 10,000 steps daily ...",
+                "Ride 1000 horses in your life ...",
+                "Swim 1 ocean every year ..."
+            ]
+        },
+        {
+            "id": "256B",
+            "question": "what is budo?",
+            "categories": [
+                "philosophical",
+                "historical"
+            ],
+            "correct_answer": "Martial Way",
+            "explanation": "\"Budo\" translates to English as \"martial way\".  It is the study of martial techniques with the goal of adding value to the life of the practitioner. A true budo values personal growth as its key metric.",
+            "answers": [
+                "Martial Strategy",
+                "Martial Way",
+                "Martial Martial",
+                "Martial Truth"
+            ]
+        },
+        {
+            "id": "256C",
+            "question": "what is bujutsu?",
+            "categories": [
+                "philosophical",
+                "historical"
+            ],
+            "correct_answer": "Martial Science",
+            "explanation": "\"Bujutsu\" translates to English as \"martial science\". It is the study of martial techniques with the goal of measuring technique and results. A true bujutsu values physical results as its key metric.",
+            "answers": [
+                "Martial Student",
+                "Martial Science",
+                "Martial Stamina",
+                "Martial Warrior"
+            ]
+        },
+        {
+            "id": "256D",
+            "question": "what is joe hikan shin sui shogo?",
+            "categories": [
+                "philosophical"
+            ],
+            "correct_answer": "Embrace difficulty and your mind will grow",
+            "explanation": "This saying means when you embrace challenges, your mind will grow (blossom). Your mind should grow when it is challenged, but we live in a society where we will trade challenges for easy answers. The goal of the budoka should be to embrace any challenge set before them, and to become stronger and better because they embraced it and overcame it.",
+            "answers": [
+                "Embrace life and be blessed",
+                "Embrace difficulty and your mind will grow",
+                "Embrace each other and life grows",
+                "Embrace nothing and be alone"
+            ]
+        },
+        {
+            "id": "256E",
+            "question": "what is kojiki?",
+            "categories": [
+                "philosophical"
+            ],
+            "correct_answer": "The oldest book in Japan",
+            "explanation": "The Kojiki is the oldest documented book in Japan. Completed in 712 CE, it is a foundational text of mythology, shinto and early Japanese history.",
+            "answers": [
+                "A legendary sword",
+                "Crazy one-eyed archer",
+                "A Japanese bird that will fight humans",
+                "The oldest book in Japan"
+            ]
+        },
+        {
+            "id": "256F",
+            "question": "what is angatsu (agatsu)?",
+            "categories": [
+                "philosophical"
+            ],
+            "correct_answer": "Victory over self",
+            "explanation": "Agatsu (angatsu) means victory over yourself. Philosophically is means you fight a battle against yourself and the prize you get for winning is yourself. It is related to defeating your ego and focusing on your disciplines in life.",
+            "answers": [
+                "Victory over self",
+                "Correct Victory",
+                "Samurai Honor",
+                "A brand of saki"
+            ]
+        },
+        {
+            "id": "256G",
+            "question": "what is masakatsu?",
+            "categories": [
+                "philosophical"
+            ],
+            "correct_answer": "Correct Victory",
+            "explanation": "Masakatsu mean correct victory. It means that you must win in the correct way - a way that is constructive rather than destructive. There are many ways to achieve a goal, but the correct way is the one that makes you a greater person.",
+            "answers": [
+                "Victory over self",
+                "Correct Victory",
+                "Samurai Honor",
+                "Breakfast"
+            ]
+        },
+        {
+            "id": "256H",
+            "question": "what is kachi hayami?",
+            "categories": [
+                "philosophical"
+            ],
+            "correct_answer": "Victory in the correct time",
+            "explanation": "Kachi Hayami means victory in the correct time. It means you should not rush to achieve your goals, but let them happen in the correct time. Rushing too much or not enough means that you are missing part of the journey.",
+            "answers": [
+                "Victory over self",
+                "Victory in the correct time",
+                "Correct timing of log and bell",
+                "A British Fry Up"
+            ]
+        },
+        {
+            "id": "256J",
+            "question": "what does kenshu mean?",
+            "categories": [
+                "philosophical"
+            ],
+            "correct_answer": "Sword Sharpening",
+            "explanation": "\"Kenshu\" translates to sword sharpening. It is a term used for a specific class in aikido that is more intense than regular classes. Kenshu classes usually involve lectures, detailed instructions on physical techniques and intense training exercises.",
+            "answers": [
+                "Weapons Practice",
+                "Sword Duel",
+                "Sword Sharpening",
+                "Weapon Making"
+            ]
+        },
+        {
+            "id": "256K",
+            "question": "what does chudokan mean?",
+            "categories": [
+                "philosophical"
+            ],
+            "correct_answer": "House of the middle way",
+            "explanation": "\"Chudokan\" means house of the middle way. \"Chu\" translates to middle, \"Do\" translates to \"The Way\" and \"Kan\" translates to \"House of\". This is the name of our main headquarters dojo in Windsor, Ontario.",
+            "answers": [
+                "House of pain",
+                "House of Chi",
+                "House of no house",
+                "House of the middle way"
+            ]
+        },
+        {
+            "id": "256L",
+            "question": "what does yoshinkan mean?",
+            "categories": [
+                "philosophical"
+            ],
+            "correct_answer": "House of Mind Cultivation",
+            "explanation": "\"Yoshinkan\" means house of mind cultivation. This name was given to our style of aikido by Gozo Shioda, the founder of Yoshinkan Aikido. It was the name of Shioda's father's judo dojo. \"Mind cultivation\" means that your mind is intended to grow through the training.",
+            "answers": [
+                "House of pain",
+                "House of Mind Cultivation",
+                "House of No Mind",
+                "House of No House"
+            ]
+        },
+        {
+            "id": "256M",
+            "question": "what is zanshin?",
+            "categories": [
+                "philosophical"
+            ],
+            "correct_answer": "Continuing Mind",
+            "explanation": "\"Zanshin\" means continuing mind. It has also been translated as \"lingering spirit\" or \"remaining mind\". It refers to a state of relaxed alertness and total awareness maintained after an action. It represents a continuous, focused presence, which is crutial for post-technique readiness. It also is applicable in daily life as mindful focus.",
+            "answers": [
+                "Continuing Mind",
+                "Abstract Mind",
+                "Death Mind",
+                "Zen Mind"
+            ]
+        },
+        {
+            "id": "256O",
+            "question": "why do we say osu? what does it mean?",
+            "categories": [
+                "philosophical"
+            ],
+            "correct_answer": "To push. to endure",
+            "explanation": "Although there are many theories about the origins of the word \"osu\", the most relevant one to our study means \"to push, to endure\". This is something we say before we train with partners or in a group. It is also a greeting we use when aikidoka see one another. The \"push\" aspect of this saying can be interpreted as \"I push myself aside for you\".  This is attributed to samurai who lived in small clans and did not always get along with one another. When it was time to train, they would say \"osu\" to one another to put aside any differences they had and simply train so they could be more useful as soldiers. The \"to endure\" aspect of this saying can be interpreted as to undergo intense training, or to commit to being the best person you can be during the training.",
+            "answers": [
+                "Because we do",
+                "It means \"I will not kill you\"",
+                "To push, to endure",
+                "OSU!"
+            ]
+        },
+        {
+            "id": "256P",
+            "question": "what is a hakama? why do we wear it in aikido?",
+            "categories": [
+                "philosophical"
+            ],
+            "correct_answer": "Traditional samurai horse-riding garb",
+            "explanation": "A hakama is a skirt-like set of pants that are worn on the lower body over the uniform. It is worn in aikido but also in other arts like Judo and Karate. Historically the hakama was meant to be worn when riding on horse to protect the samurai's legs from brambles, brush, etc. After the samurai dismounted and became foot soldiers, they persisted in wearing them as it set them apart from common soldiers. In many schools only black belts will wear hakama, although some exceptions can be made.",
+            "answers": [
+                "A skirt",
+                "A dress",
+                "Baggy samurai pants",
+                "Traditional samurai horse-riding garb"
+            ]
+        },
+        {
+            "id": "256R",
+            "question": "what do the two pleats in the back of the hakama represent?",
+            "categories": [
+                "philosophical"
+            ],
+            "correct_answer": "Loyalty and Humility",
+            "explanation": "The two pleats on the back of the hakama represent Loyalty and Humility. These two characteristics were meant to be behind the samurai and drive them forward in life. They were key aspects in samurai day-to-day life.",
+            "answers": [
+                "Strength and Honor",
+                "Honor and Loyalty",
+                "Loyalty and Humility",
+                "Humility and Strength"
+            ]
+        },
+        {
+            "id": "256S",
+            "question": "what is aikido no kokoro?",
+            "categories": [
+                "philosophical"
+            ],
+            "correct_answer": "Aikido's Heart",
+            "explanation": "The spirit/heart of aikido isan amorphous term which applies more to how aikido applies to an individual. This tends to be a high level dan question and is asked when looking to determine an individual's focus with and through aikido. An answer will very much apply to that person and tends to be more philosophical in nature and less technical.",
+            "answers": [
+                "Aikido's Lungs",
+                "Aikido's Heart",
+                "Aikido's Brain",
+                "Aikido's Liver"
+            ]
+        },
+        {
+            "id": "256T",
+            "question": "what is shu chu ryoku?",
+            "categories": [
+                "philosophical"
+            ],
+            "correct_answer": "Focus all your energy to one point",
+            "explanation": "The saying \"shu chu (shuchu) ryoku\" means \"focus all your energy to one point\". This was the ishi of Gozo Shioda, the founder of Yoshinkan Aikido. He believed that if an individual focused all their energy to one area, they could be extremely powerful.",
+            "answers": [
+                "5 powers",
+                "5 rings",
+                "Focus all your energy to one point",
+                "Focus all your chakras to one finger"
+            ]
+        },
+        {
+            "id": "256V",
+            "question": "what is shimoku no ashi?",
+            "categories": [
+                "philosophical"
+            ],
+            "correct_answer": "Log and Bell Feet",
+            "explanation": "This means \"the bell and the log feet\". It emphasizes that the feet of the aikidoka should be at a 90 degree angle. It is called this because when a log hits a bell at a perfect 90 degree angle, it is most effective. The same is true for the aikidoka's feet when they are at 90 degrees total (each foot on a 45 degree angle)",
+            "answers": [
+                "Smoking Ashes",
+                "Ashes of Wisdom",
+                "Incense Ashes",
+                "Log and Bell Feet"
+            ]
+        },
+        {
+            "id": "256W",
+            "question": "what is shi sei o tada shite?",
+            "categories": [
+                "philosophical"
+            ],
+            "correct_answer": "Make your back straight",
+            "explanation": "The saying \"shi sei o tada shite\" means make your back straight. It is a saying we use in aikido during training and when sitting in seiza. A straight back while in training will help shite do a more powerful technique. A straight back while in seiza will show focus and attention while sitting. The saying also carries the meaning \"Make your life straight\", which means the budoka should do everything in their power to keep their life on a positive path.",
+            "answers": [
+                "Keep your head up",
+                "Make your back straight",
+                "Keep your head low",
+                "Make your arms straight"
+            ]
+        },
+        {
+            "id": "256X",
+            "question": "what is malobashi?",
+            "categories": [
+                "philosophical"
+            ],
+            "correct_answer": "Just do it",
+            "explanation": "Malobashi (marobashi) means just do it. If there is an inconvenience in your life, get it done and be done with it. Do not waste time wishing things were different. Do it quickly and move on.",
+            "answers": [
+                "A type of sushi",
+                "Samurai loincloth",
+                "Just do it",
+                "A belief about the stars"
+            ]
+        },
+        {
+            "id": "256Y",
+            "question": "what is ken o fumu?",
+            "categories": [
+                "philosophical"
+            ],
+            "correct_answer": "Step on the sword",
+            "explanation": "Ken o fumu means to step on the sword. If you are on a path (have a goal) and there is a physical sword on the path (an obstacle/inconvenience) then you step on the sword and be done with it. Unlike malobashi, Ken o fumu has an element of physical/mental/emotional pain that comes with it.",
+            "answers": [
+                "Sword's fury",
+                "Just do it",
+                "Sword steps",
+                "Step on the sword"
+            ]
+        },
+        {
+            "id": "256Z",
+            "question": "what is jiki shin kore dojo?",
+            "categories": [
+                "philosophical"
+            ],
+            "correct_answer": "When the mind is correct, everywhere is the  dojo",
+            "explanation": "This saying means that when you have the correct mind, every opportunity in life is a chance to learn and grow. A correct mind seeks knowledge and experiences and is willing to adapt.",
+            "answers": [
+                "When the mind is correct, everywhere is the dojo",
+                "When the mind is empty, the tea will flow",
+                "When the bottle is empty, the tears will flow",
+                "When the belly is empty, you need food"
+            ]
+        },
+        {
+            "id": "002570",
+            "question": "what is an ishi? what is your ishi and how does it apply to your life?",
+            "categories": [
+                "philosophical"
+            ],
+            "correct_answer": "Personal Saying",
+            "explanation": "An ishi is a personal saying that is significant to the budoka. It can be a quote, a poem or a unique saying of significant value. Everyone will have personal reasons for choosing their ishi. A budoka can have more than one ishi.",
+            "answers": [
+                "Personal Brand",
+                "Personal Life",
+                "Personal Person",
+                "Personal Saying"
+            ]
+        },
+        {
+            "id": "002571",
+            "question": "why do we wear left over right on our dogi top?",
+            "categories": [
+                "philosophical"
+            ],
+            "correct_answer": "Passive over agressive",
+            "explanation": "Traditionally, the left hand was seen as the passive hand as the right hand would be the one to draw/use weapons.  We always want to show our passive side first when dealing with conflict before we show our agressive side.",
+            "answers": [
+                "Modesty",
+                "Etiquite",
+                "For sport",
+                "Passive over Agressive"
+            ]
+        },
+        {
+            "id": "002572",
+            "question": "why do we study the Japanese language?",
+            "categories": [
+                "philosophical"
+            ],
+            "correct_answer": "Adaptability",
+            "explanation": "Aikido originates from Japan. We study the Japanese language not only to challenge our minds, but to create adaptability in communication to other dojos. Not all dojos will speak the primary language of the aikidoka's home dojo. Learning to speak Japanese can bridge communication gaps between different dojos across the world.",
+            "answers": [
+                "Fun",
+                "To order sushi",
+                "Because sensei said so",
+                "Adaptability"
+            ]
+        },
+        {
+            "id": "002573",
+            "question": "which way should the front of the dojo face and why?",
+            "categories": [
+                "philosophical"
+            ],
+            "correct_answer": "North",
+            "explanation": "The front of the dojo (shomen) should face North. This was established because bad weather typically came from the North in Japan and Japanese wanted to appease the gods, so they would bow to the North.",
+            "answers": [
+                "North",
+                "South",
+                "East",
+                "Left"
+            ]
+        },
+        {
+            "id": "257E",
+            "question": "why do we sometimes use \"yon\" instead of \"shi\" as the word representing the number four?",
+            "categories": [
+                "philosophical"
+            ],
+            "correct_answer": "Death",
+            "explanation": "We sometimes use the word \"yon\" instead of \"shi\" because \"shi\" is the root word in death. Japanese superstition did not want to use \"shi\" when naming specific things as they thought it may \"invite death\" into that thing. For example, a fourth degree black belt is a \"Yondan\" and not a \"Shidan\" (no one should be the \"death dan\"!)",
+            "answers": [
+                "Courtesy",
+                "Wisdom",
+                "Honesty",
+                "Death"
+            ]
+        },
+        {
+            "id": "257Z",
+            "question": "what is sho shin?",
+            "categories": [
+                "philosophical"
+            ],
+            "correct_answer": "Beginner's Mind",
+            "explanation": "\"Sho shin\" means beginner's mind. It means that you have a mind that is open, unbiased and ready to try new things. It searches for knowledge and is ready to learn. It is also known as the \"white belt mind\".",
+            "answers": [
+                "Beginner's Way",
+                "Beginner's Punch",
+                "Beginner's Mind",
+                "Beginner's Heart"
+            ]
+        },
+        {
+            "id": "002580",
+            "question": "what is sho shin sho gai?",
+            "categories": [
+                "philosophical"
+            ],
+            "correct_answer": "Beginner's Mind for your whole life",
+            "explanation": "\"Sho shin sho gai\" means beginner's mind for your whole life. It implies that your mind should always be open to trying new things. It is a lifestyle that should keep the budoka in a state of mind that they are trying things for the first time. It is the ideal mindset for accumulating unbiased experiences.",
+            "answers": [
+                "Beginner's Mind for your whole life",
+                "A Japanese fruit",
+                "Immoveable Wisdom",
+                "Mind Control Technique"
+            ]
+        },
+        {
+            "id": "002586",
+            "question": "why do we chop the face when pinning in shiho nage?",
+            "categories": [
+                "technical"
+            ],
+            "correct_answer": "To occupy uke's free hand",
+            "explanation": "In a shiho nage pin, uke is face up (supine). This is the only pin we have in our system where uke is face up. Because of this, uke has the opportunity to punch, kick or attempt to tactically escape with more advantage. We chop the face to force uke to block the strike with the free hand, and we can then complete the pin from the face up position. ",
+            "answers": [
+                "To kill uke",
+                "To occupy uke's free hand",
+                "To complete the pin",
+                "To teach uke a lesson"
+            ]
+        },
+        {
+            "id": "258E",
+            "question": "what does soke and kancho mean? what is the difference?",
+            "categories": [
+                "technical"
+            ],
+            "correct_answer": "A founder and an administrator",
+            "explanation": "A soke is the founder of an art. In Yoshinkan Aikido, Soke is (and always will be) Gozo Shioda. A Kancho is the current head of the organization or the administrator of the martial art. This can change over time. Bonus: a \"dojo cho\" is the head of one specific school or dojo.",
+            "answers": [
+                "A leader and a follower",
+                "A master and a pupil",
+                "A father and an uncle",
+                "A founder and an administrator"
+            ]
+        },
+        {
+            "id": "258H",
+            "question": "what is the angle of your feet in kamae? what is your weight distribution?",
+            "categories": [
+                "technical"
+            ],
+            "correct_answer": "45 deg & 60/40",
+            "explanation": "In kamae, the aikidoka should have their feet angled outward (away from their center line) at 45 degrees each. Their weight distribution should be 60% of their weight on their front leg and 40% of their weight on their back leg.",
+            "answers": [
+                "45 deg & 50/50",
+                "45 deg & 60/40",
+                "70 deg & 80/20",
+                "20 deg & 40/60"
+            ]
+        },
+        {
+            "id": "258I",
+            "question": "when doing grabbing techniques, sometimes we leave the hand on and sometimes we take it off. why?",
+            "categories": [
+                "technical"
+            ],
+            "correct_answer": "Elbow not in center",
+            "explanation": "For some grabbing techniques (sode mochi, mune mochi) shite cannot always get uke's elbow into their center. This may be because of flexibility issues or other issues. In the cases where shite cannot get uke's elbow completely into their center (and thus not establish complete control over uke), we leave the grab on. ",
+            "answers": [
+                "Because we do",
+                "Elbow not in center",
+                "Wrist higher than elbow",
+                "ody lower than center"
+            ]
+        },
+        {
+            "id": "258J",
+            "question": "how many kinds of bows are there? what are they?",
+            "categories": [
+                "technical"
+            ],
+            "correct_answer": "3",
+            "explanation": "There are three types of bows we practice. 1. tachi rei or standing bow, 2. seiza rei or seiza bow, 3. chu rei or middle bow (usually done with one knee up - meant to replicate a bow from a samurai in armor)",
+            "answers": [
+                "2",
+                "3",
+                "4",
+                "6"
+            ]
+        },
+        {
+            "id": "258K",
+            "question": "what is san sei no kiai?",
+            "categories": [
+                "philosophical",
+                "technical"
+            ],
+            "correct_answer": "Three times to kiai",
+            "explanation": "San sei no kiai means \"the three times to kiai\". The three times are: 1. to bring yourself up and your opponent down, 2. to finish a movement, 3. to stop a movement from an opponent",
+            "answers": [
+                "Three times we move",
+                "The voice of the universe",
+                "Three Virtues",
+                "Three times to kiai"
+            ]
+        },
+        {
+            "id": "258L",
+            "question": "why do we practice techniques from seiza?",
+            "categories": [
+                "technical"
+            ],
+            "correct_answer": "Because it is hard",
+            "explanation": "Although seiza techniques are from Japanese tradition, we do not kneel in modern society. We practice kneeling techniques because they are difficult to do. By taking on difficult challenges, we become stronger and grow our character.",
+            "answers": [
+                "For the sake of tradition",
+                "Because it is hard",
+                "To replicate ancient Japanese culture",
+                "To be dangerous from kneeling and standing"
+            ]
+        },
+        {
+            "id": "258N",
+            "question": "why can there be a difference when performing the technique shiho nage?",
+            "categories": [
+                "technical"
+            ],
+            "correct_answer": "Grab vs Strike",
+            "explanation": "In shiho nage from standing (tachi), there is a difference in performing the shiho nage for shite. In grabbing techniques, there is a small pause when bringing uke's hands to shite's forehead. In strike techniques, shite does not pause at the forehead, but moves quickly into the technique.",
+            "answers": [
+                "Grab vs Strike",
+                "Hold vs Submission",
+                "Change is good",
+                "Uke is larger than shite"
+            ]
+        },
+        {
+            "id": "258O",
+            "question": "what is our sword style?",
+            "categories": [
+                "technical"
+            ],
+            "correct_answer": "Yagyu Shinkage Ryu",
+            "explanation": "Our sword style is Yagyu Shinkage Ryu. It was invented by Kamizumi Nobutsuna and was originally called \"Shinkage Ryu\". Around 1565 it was passed on to Yagyu Munetoshi who added the \"Yagyu\" to the sword style name.",
+            "answers": [
+                "Swallow Tail Style",
+                "Muso Ryu",
+                "Yagyu Shinkage Ryu",
+                "Heaven and Earth Style"
+            ]
+        },
+        {
+            "id": "258T",
+            "question": "why are there no behind techniques from seiza?",
+            "categories": [
+                "technical"
+            ],
+            "correct_answer": "Because Gozo Shioda said so",
+            "explanation": "there should never be a scenario where you let use get behind you. Hanshi Blok asked this question to Gozo Shioda and that was the answer he got. it has not changed. suggestions for overcoming a grab from behind in seiza include standing up.",
+            "answers": [
+                "Because Gozo Shioda said so",
+                "For the sake of the art",
+                "Because it is weird",
+                "For the sake of dignity"
+            ]
+        },
+        {
+            "id": "258V",
+            "question": "how many different types of pins are there in hiji shime?",
+            "categories": [
+                "technical"
+            ],
+            "correct_answer": "3",
+            "explanation": "There are 3. The typical \"X\" is made when uke is not holding onto you. When you have control over the back of their hand, it is more of an armlock.  From katate aya gyaku mochi, you will grab uke's wrist and lock their arm while grabbing their wrist.",
+            "answers": [
+                "3",
+                "4",
+                "7",
+                "12"
+            ]
+        },
+        {
+            "id": "258Z",
+            "question": "who was Minamoto No Tametomo (Chinzei Hachiro)?",
+            "categories": [
+                "historical",
+                "people"
+            ],
+            "correct_answer": "A legendary samurai",
+            "explanation": "Minamoto no Tametoro (also referred to as \"Chinzei Hachir\u014d Tametomo\") was a famous samurai in the 12th century. He was knows as a powerful archer, rumored to have sank an entire Taira ship with a single arrow. After the Hogen Rebellion, Tametomo's left arm was injured and he was banished to the island of Oshima. He is documented as the first samurai in history to have committed seppuku.",
+            "answers": [
+                "A legendary samurai",
+                "A Japanese demi-god",
+                "A Chinese demi-god",
+                "Miyomoto Musashi's pet goat"
+            ]
+        },
+        {
+            "id": "002593",
+            "question": "who was Sen No Rikyu?",
+            "categories": [
+                "historical",
+                "people"
+            ],
+            "correct_answer": "Tea Ceremony Master",
+            "explanation": "Sen No Rikyu was a 16th century (1522 - 1591) tea master. He perfected \"wabi-cha\", the minimalistic tea ceremony that emphasized simplicity, directness and the beauty of imperfection. He opted to use simple, locally produced items for his tea ceremony instead of extravagant items and ingredients. He introduced the \"so-an\", a grass-hut style ceremony that enforced a democratic atmosphere where, regardless of social status, all guests were equal. He was ordered to commit seppuku in 1591 by Toyotomi Hideyoshi.",
+            "answers": [
+                "Tea Ceremony Master",
+                "Two Sword Master",
+                "Famous Caligrapher",
+                "One-Armed Samurai"
+            ]
+        },
+        {
+            "id": "002599",
+            "question": "who was \"Shiho Nage Sabu Chan\"?",
+            "categories": [
+                "historical",
+                "people"
+            ],
+            "correct_answer": "\"Shiho Nage Sabu Chan\"",
+            "explanation": "\"Shiho Nage Sabu Chan\" was a mentally ill student of Gozo Shioda who only did Shiho Nage techniques, even when instructed to do other techniques. He eventually received the rank of Shodan, but only in using Shiho Nage.",
+            "answers": [
+                "Aikido's Founder",
+                "A Great Swordsman in 1200",
+                "O-Sensei's Uncle",
+                "\"Shiho Nage Sabu Chan\""
+            ]
+        },
+        {
+            "id": "259Q",
+            "question": "how many types of punch atemi are there? what does each one do?",
+            "categories": [
+                "technical"
+            ],
+            "correct_answer": "3",
+            "explanation": "We have a back-knuckle punch for distraction, a straight punch (like in kotegaeshi techniques) to force uke to make distance, and an uppercut punch to make uke look up.",
+            "answers": [
+                "4",
+                "3",
+                "2",
+                "42"
+            ]
+        },
+        {
+            "id": "259R",
+            "question": "how may different ways can you block a side strike? what is the function of each of them?",
+            "categories": [
+                "technical"
+            ],
+            "correct_answer": "6",
+            "explanation": "There are 6 basic types of side strike block. Block high #1 and #2, Block low #1 and #2, Pivot and Block high and low. There are other advanced side strike blocks as well.",
+            "answers": [
+                "4",
+                "6",
+                "8",
+                "12"
+            ]
+        },
+        {
+            "id": "259S",
+            "question": "how many basic techniques do we have where a side strike is blocked low?",
+            "categories": [
+                "technical"
+            ],
+            "correct_answer": "5",
+            "explanation": "five - shiho nage, hiji ate, sokumen irimi nage, kotegaeshi, irimi tsuki",
+            "answers": [
+                "6",
+                "5",
+                "4",
+                "2"
+            ]
+        },
+        {
+            "id": "259T",
+            "question": "Who was Amaterasu (Amateru Kami)?",
+            "categories": [
+                "philosophical"
+            ],
+            "correct_answer": "Goddess of the Sun",
+            "explanation": "Amaterasu or Amateru Kami is the Japanese Goddess of the Sun. From Japanese mythology, another diety, Susanno, threw a dead horse onto one of her looms. In response she sealed herself into a cave, causing total darkness to come over heaven and earth. Omoikane, the God of Wisdom, came up with a plan to lure her out with an eight-sided mirror. This eight-sided mirror is on our aikido crest with a peregrine falcon in the middle, representing Gozo Shioda.",
+            "answers": [
+                "Goddess of the Sun",
+                "Goddess of Wisdom",
+                "Gozo Shioda's wife",
+                "Goddess of Horses"
+            ]
+        }
+    ]
+}

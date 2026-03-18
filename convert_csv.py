@@ -77,8 +77,12 @@ def convert_csv_to_json():
         del row["answer_c"]
         del row["answer_d"]
 
+    with open(json_file, mode='r', encoding='utf-8') as f:
+        existing_data = json.load(f) if os.path.exists(json_file) else {}
+        version = existing_data.get("v", 0) if isinstance(existing_data, dict) else 0
+
     with open(json_file, mode='w', encoding='utf-8') as f:
-        json.dump(data, f, indent=4)
+        json.dump({ "v": version + 1, "questions": data}, f, indent=4)
 
     print(f"Successfully converted '{csv_file}' to '{json_file}'.")
 
